@@ -1,0 +1,5158 @@
+{
+      "Which team does M\u00f3nica Gon\u00e7alves play for currently?": {
+            "question": "Which team does M\u00f3nica Gon\u00e7alves play for currently?",
+            "subject": {
+                  "subject": "Q6950245",
+                  "subLabel": "M\u00f3nica Gon\u00e7alves"
+            },
+            "text answers": [
+                  "UE L'Estartit"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q6745121",
+                        "Label": "UE L'Estartit"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 376
+      },
+      "Which team does Mutala Mohammed play for currently?": {
+            "question": "Which team does Mutala Mohammed play for currently?",
+            "subject": {
+                  "subject": "Q6943656",
+                  "subLabel": "Mutala Mohammed"
+            },
+            "text answers": [
+                  "Hollywood United Hitmen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5883001",
+                        "Label": "Hollywood United Hitmen"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 378
+      },
+      "Which team does Arash Roshanipour play for currently?": {
+            "question": "Which team does Arash Roshanipour play for currently?",
+            "subject": {
+                  "subject": "Q4784351",
+                  "subLabel": "Arash Roshanipour"
+            },
+            "text answers": [
+                  "Saba Qom F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q613931",
+                        "Label": "Saba Qom F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 390
+      },
+      "Which team does Heiner Parra play for currently?": {
+            "question": "Which team does Heiner Parra play for currently?",
+            "subject": {
+                  "subject": "Q15090051",
+                  "subLabel": "Heiner Parra"
+            },
+            "text answers": [
+                  "Canel's-ZeroUno"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q25111855",
+                        "Label": "Canel's-ZeroUno"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 392
+      },
+      "Which team does Kaden Groves play for currently?": {
+            "question": "Which team does Kaden Groves play for currently?",
+            "subject": {
+                  "subject": "Q30156666",
+                  "subLabel": "Kaden Groves"
+            },
+            "text answers": [
+                  "Alpecin\u2013Deceuninck"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q796040",
+                        "Label": "Alpecin\u2013Deceuninck"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 394
+      },
+      "Which team does Paolo Grossi play for currently?": {
+            "question": "Which team does Paolo Grossi play for currently?",
+            "subject": {
+                  "subject": "Q3894143",
+                  "subLabel": "Paolo Grossi"
+            },
+            "text answers": [
+                  "Ternana Calcio"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q8623",
+                        "Label": "Ternana Calcio"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 416
+      },
+      "Which team does Jaime Sim\u00f5es play for currently?": {
+            "question": "Which team does Jaime Sim\u00f5es play for currently?",
+            "subject": {
+                  "subject": "Q10514697",
+                  "subLabel": "Jaime Sim\u00f5es"
+            },
+            "text answers": [
+                  "C.F. Uni\u00e3o"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1762119",
+                        "Label": "C.F. Uni\u00e3o"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 426
+      },
+      "Which team does Jos\u00e9 Ernesto Sosa play for currently?": {
+            "question": "Which team does Jos\u00e9 Ernesto Sosa play for currently?",
+            "subject": {
+                  "subject": "Q314241",
+                  "subLabel": "Jos\u00e9 Ernesto Sosa"
+            },
+            "text answers": [
+                  "Estudiantes de La Plata"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q214940",
+                        "Label": "Estudiantes de La Plata"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 428
+      },
+      "Which team does Adrian Borza play for currently?": {
+            "question": "Which team does Adrian Borza play for currently?",
+            "subject": {
+                  "subject": "Q4684880",
+                  "subLabel": "Adrian Borza"
+            },
+            "text answers": [
+                  "ASA 2013 T\u00e2rgu Mure\u0219"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q240563",
+                        "Label": "ASA 2013 T\u00e2rgu Mure\u0219"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 434
+      },
+      "Which team does R\u0103zvan Tincu play for currently?": {
+            "question": "Which team does R\u0103zvan Tincu play for currently?",
+            "subject": {
+                  "subject": "Q7386862",
+                  "subLabel": "R\u0103zvan Tincu"
+            },
+            "text answers": [
+                  "CSM Politehnica Ia\u0219i"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1024390",
+                        "Label": "CSM Politehnica Ia\u0219i"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 449
+      },
+      "Which team does Odion Ighalo play for currently?": {
+            "question": "Which team does Odion Ighalo play for currently?",
+            "subject": {
+                  "subject": "Q928969",
+                  "subLabel": "Odion Ighalo"
+            },
+            "text answers": [
+                  "Nigeria national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q181930",
+                        "Label": "Nigeria national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 453
+      },
+      "Which team does H\u00e9ctor Rojo Carrasco play for currently?": {
+            "question": "Which team does H\u00e9ctor Rojo Carrasco play for currently?",
+            "subject": {
+                  "subject": "Q16221498",
+                  "subLabel": "H\u00e9ctor Rojo Carrasco"
+            },
+            "text answers": [
+                  "PD Santa Eulalia"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2155702",
+                        "Label": "PD Santa Eulalia"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 455
+      },
+      "Which team does Adama Guira play for currently?": {
+            "question": "Which team does Adama Guira play for currently?",
+            "subject": {
+                  "subject": "Q351435",
+                  "subLabel": "Adama Guira"
+            },
+            "text answers": [
+                  "S\u00f8nderjyskE Fodbold",
+                  "FC Dacia Chi\u0219in\u0103u",
+                  "Burkina Faso national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3511548",
+                        "Label": "S\u00f8nderjyskE Fodbold"
+                  },
+                  {
+                        "ID": "Q635644",
+                        "Label": "FC Dacia Chi\u0219in\u0103u"
+                  },
+                  {
+                        "ID": "Q44270",
+                        "Label": "Burkina Faso national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 457
+      },
+      "Which team does Hristo Staev play for currently?": {
+            "question": "Which team does Hristo Staev play for currently?",
+            "subject": {
+                  "subject": "Q5923798",
+                  "subLabel": "Hristo Staev"
+            },
+            "text answers": [
+                  "FC Spartak Plovdiv"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q654407",
+                        "Label": "FC Spartak Plovdiv"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 459
+      },
+      "Which team does Andre Frolov play for currently?": {
+            "question": "Which team does Andre Frolov play for currently?",
+            "subject": {
+                  "subject": "Q493138",
+                  "subLabel": "Andre Frolov"
+            },
+            "text answers": [
+                  "Estonia national football team",
+                  "FC Flora Tallinn",
+                  "FC Flora II Tallinn"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q186914",
+                        "Label": "Estonia national football team"
+                  },
+                  {
+                        "ID": "Q222861",
+                        "Label": "FC Flora Tallinn"
+                  },
+                  {
+                        "ID": "Q5424928",
+                        "Label": "FC Flora II Tallinn"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 473
+      },
+      "Which team does Sergio Marcon play for currently?": {
+            "question": "Which team does Sergio Marcon play for currently?",
+            "subject": {
+                  "subject": "Q3956176",
+                  "subLabel": "Sergio Marcon"
+            },
+            "text answers": [
+                  "Calcio Portogruaro Summaga"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q913041",
+                        "Label": "Calcio Portogruaro Summaga"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 479
+      },
+      "Which team does Alexandru R\u0103u\u021b\u0103 play for currently?": {
+            "question": "Which team does Alexandru R\u0103u\u021b\u0103 play for currently?",
+            "subject": {
+                  "subject": "Q26209591",
+                  "subLabel": "Alexandru R\u0103u\u021b\u0103"
+            },
+            "text answers": [
+                  "FC Hermannstadt"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q24884611",
+                        "Label": "FC Hermannstadt"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 481
+      },
+      "Which team does Arjen Livyns play for currently?": {
+            "question": "Which team does Arjen Livyns play for currently?",
+            "subject": {
+                  "subject": "Q26461227",
+                  "subLabel": "Arjen Livyns"
+            },
+            "text answers": [
+                  "Lotto-Dstny"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q841014",
+                        "Label": "Lotto-Dstny"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 499
+      },
+      "Which team does Marian Dr\u0103ghiceanu play for currently?": {
+            "question": "Which team does Marian Dr\u0103ghiceanu play for currently?",
+            "subject": {
+                  "subject": "Q50412258",
+                  "subLabel": "Marian Dr\u0103ghiceanu"
+            },
+            "text answers": [
+                  "CSM Re\u0219i\u021ba"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1024397",
+                        "Label": "CSM Re\u0219i\u021ba"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 501
+      },
+      "Which team does Vicente Moscard\u00f3 play for currently?": {
+            "question": "Which team does Vicente Moscard\u00f3 play for currently?",
+            "subject": {
+                  "subject": "Q7925179",
+                  "subLabel": "Vicente Moscard\u00f3"
+            },
+            "text answers": [
+                  "M\u00e9rida AD"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5726133",
+                        "Label": "M\u00e9rida AD"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 507
+      },
+      "Which team does Nigel Boogaard play for currently?": {
+            "question": "Which team does Nigel Boogaard play for currently?",
+            "subject": {
+                  "subject": "Q3876720",
+                  "subLabel": "Nigel Boogaard"
+            },
+            "text answers": [
+                  "Newcastle Jets FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q732929",
+                        "Label": "Newcastle Jets FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 513
+      },
+      "Which team does Ella Van Kerkhoven play for currently?": {
+            "question": "Which team does Ella Van Kerkhoven play for currently?",
+            "subject": {
+                  "subject": "Q55265111",
+                  "subLabel": "Ella Van Kerkhoven"
+            },
+            "text answers": [
+                  "KAA Gent"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1922632",
+                        "Label": "KAA Gent"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 519
+      },
+      "Which team does Leandro Resida play for currently?": {
+            "question": "Which team does Leandro Resida play for currently?",
+            "subject": {
+                  "subject": "Q10555822",
+                  "subLabel": "Leandro Resida"
+            },
+            "text answers": [
+                  "VVV-Venlo"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q24689",
+                        "Label": "VVV-Venlo"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 531
+      },
+      "Which team does Bradley Grayson play for currently?": {
+            "question": "Which team does Bradley Grayson play for currently?",
+            "subject": {
+                  "subject": "Q4954927",
+                  "subLabel": "Bradley Grayson"
+            },
+            "text answers": [
+                  "Loyola Meralco Sparks F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2784845",
+                        "Label": "Loyola Meralco Sparks F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 545
+      },
+      "Which team does Marco Krainz play for currently?": {
+            "question": "Which team does Marco Krainz play for currently?",
+            "subject": {
+                  "subject": "Q21523321",
+                  "subLabel": "Marco Krainz"
+            },
+            "text answers": [
+                  "SC Austria Lustenau",
+                  "Austria national under-19 football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q696507",
+                        "Label": "SC Austria Lustenau"
+                  },
+                  {
+                        "ID": "Q302977",
+                        "Label": "Austria national under-19 football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 563
+      },
+      "Which team does Robert Garrett play for currently?": {
+            "question": "Which team does Robert Garrett play for currently?",
+            "subject": {
+                  "subject": "Q3938281",
+                  "subLabel": "Robert Garrett"
+            },
+            "text answers": [
+                  "Portadown F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q168660",
+                        "Label": "Portadown F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 565
+      },
+      "Which team does Manuel Fernandes play for currently?": {
+            "question": "Which team does Manuel Fernandes play for currently?",
+            "subject": {
+                  "subject": "Q297845",
+                  "subLabel": "Manuel Fernandes"
+            },
+            "text answers": [
+                  "Sepahan F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q31660",
+                        "Label": "Sepahan F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 589
+      },
+      "Which team does Li Chenguang play for currently?": {
+            "question": "Which team does Li Chenguang play for currently?",
+            "subject": {
+                  "subject": "Q17612551",
+                  "subLabel": "Li Chenguang"
+            },
+            "text answers": [
+                  "Taiyuan Zhongyou Jiayi F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q11047010",
+                        "Label": "Taiyuan Zhongyou Jiayi F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 591
+      },
+      "Which team does Jordan Pierre-Charles play for currently?": {
+            "question": "Which team does Jordan Pierre-Charles play for currently?",
+            "subject": {
+                  "subject": "Q26405765",
+                  "subLabel": "Jordan Pierre-Charles"
+            },
+            "text answers": [
+                  "FC Chambly"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3076567",
+                        "Label": "FC Chambly"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 593
+      },
+      "Which team does Victor Fern\u00e1ndez play for currently?": {
+            "question": "Which team does Victor Fern\u00e1ndez play for currently?",
+            "subject": {
+                  "subject": "Q99845037",
+                  "subLabel": "Victor Fern\u00e1ndez"
+            },
+            "text answers": [
+                  "FC Boto\u0219ani"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1262822",
+                        "Label": "FC Boto\u0219ani"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 611
+      },
+      "Which team does Chris Dagnall play for currently?": {
+            "question": "Which team does Chris Dagnall play for currently?",
+            "subject": {
+                  "subject": "Q5106344",
+                  "subLabel": "Chris Dagnall"
+            },
+            "text answers": [
+                  "Hibernian F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q192597",
+                        "Label": "Hibernian F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 623
+      },
+      "Which team does Lubo\u0161 Kalouda play for currently?": {
+            "question": "Which team does Lubo\u0161 Kalouda play for currently?",
+            "subject": {
+                  "subject": "Q1338936",
+                  "subLabel": "Lubo\u0161 Kalouda"
+            },
+            "text answers": [
+                  "1. FC Slov\u00e1cko"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q847499",
+                        "Label": "1. FC Slov\u00e1cko"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 625
+      },
+      "Which team does Carles Coto play for currently?": {
+            "question": "Which team does Carles Coto play for currently?",
+            "subject": {
+                  "subject": "Q2151934",
+                  "subLabel": "Carles Coto"
+            },
+            "text answers": [
+                  "CD Roda"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q48845901",
+                        "Label": "CD Roda"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 629
+      },
+      "Which team does Keamogetse Wolff play for currently?": {
+            "question": "Which team does Keamogetse Wolff play for currently?",
+            "subject": {
+                  "subject": "Q15526585",
+                  "subLabel": "Keamogetse Wolff"
+            },
+            "text answers": [
+                  "Bidvest Wits F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q857048",
+                        "Label": "Bidvest Wits F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 633
+      },
+      "Which team does Sergei Butyrin play for currently?": {
+            "question": "Which team does Sergei Butyrin play for currently?",
+            "subject": {
+                  "subject": "Q7453482",
+                  "subLabel": "Sergei Butyrin"
+            },
+            "text answers": [
+                  "FC Energomash Belgorod"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16722156",
+                        "Label": "FC Energomash Belgorod"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 641
+      },
+      "Which team does Jordi Masip play for currently?": {
+            "question": "Which team does Jordi Masip play for currently?",
+            "subject": {
+                  "subject": "Q3187831",
+                  "subLabel": "Jordi Masip"
+            },
+            "text answers": [
+                  "Catalonia national football team",
+                  "Club Sporting Cristal"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q17228",
+                        "Label": "Catalonia national football team"
+                  },
+                  {
+                        "ID": "Q604581",
+                        "Label": "Club Sporting Cristal"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 647
+      },
+      "Which team does Oswaldo Vizcarrondo play for currently?": {
+            "question": "Which team does Oswaldo Vizcarrondo play for currently?",
+            "subject": {
+                  "subject": "Q970711",
+                  "subLabel": "Oswaldo Vizcarrondo"
+            },
+            "text answers": [
+                  "ES Troyes AC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q501693",
+                        "Label": "ES Troyes AC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 649
+      },
+      "Which team does Dries Wuytens play for currently?": {
+            "question": "Which team does Dries Wuytens play for currently?",
+            "subject": {
+                  "subject": "Q2514589",
+                  "subLabel": "Dries Wuytens"
+            },
+            "text answers": [
+                  "Waasland-Beveren"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q509170",
+                        "Label": "Waasland-Beveren"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 653
+      },
+      "Which team does Rub\u00e9n Palazuelos play for currently?": {
+            "question": "Which team does Rub\u00e9n Palazuelos play for currently?",
+            "subject": {
+                  "subject": "Q2171732",
+                  "subLabel": "Rub\u00e9n Palazuelos"
+            },
+            "text answers": [
+                  "CD Guijuelo"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2310972",
+                        "Label": "CD Guijuelo"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 655
+      },
+      "Which team does Dodi Lukedaqio play for currently?": {
+            "question": "Which team does Dodi Lukedaqio play for currently?",
+            "subject": {
+                  "subject": "Q21281344",
+                  "subLabel": "Dodi Lukedaqio"
+            },
+            "text answers": [
+                  "Watford F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2714",
+                        "Label": "Watford F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 665
+      },
+      "Which team does Stefan Payne play for currently?": {
+            "question": "Which team does Stefan Payne play for currently?",
+            "subject": {
+                  "subject": "Q7606230",
+                  "subLabel": "Stefan Payne"
+            },
+            "text answers": [
+                  "Barnsley F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19442",
+                        "Label": "Barnsley F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 677
+      },
+      "Which team does Vladyslav Nasibulin play for currently?": {
+            "question": "Which team does Vladyslav Nasibulin play for currently?",
+            "subject": {
+                  "subject": "Q3727675",
+                  "subLabel": "Vladyslav Nasibulin"
+            },
+            "text answers": [
+                  "FC Olimpiya Savyntsi"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q25445404",
+                        "Label": "FC Olimpiya Savyntsi"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 679
+      },
+      "Which team does Dmitry Guz play for currently?": {
+            "question": "Which team does Dmitry Guz play for currently?",
+            "subject": {
+                  "subject": "Q5285718",
+                  "subLabel": "Dmitry Guz"
+            },
+            "text answers": [
+                  "FC Luch-Energiya Vladivostok"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q348659",
+                        "Label": "FC Luch-Energiya Vladivostok"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 691
+      },
+      "Which team does Johan Wiland play for currently?": {
+            "question": "Which team does Johan Wiland play for currently?",
+            "subject": {
+                  "subject": "Q343096",
+                  "subLabel": "Johan Wiland"
+            },
+            "text answers": [
+                  "Malm\u00f6 FF"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q204881",
+                        "Label": "Malm\u00f6 FF"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 719
+      },
+      "Which team does Pai Soe play for currently?": {
+            "question": "Which team does Pai Soe play for currently?",
+            "subject": {
+                  "subject": "Q7124617",
+                  "subLabel": "Pai Soe"
+            },
+            "text answers": [
+                  "Phuket F.C.",
+                  "Myanmar national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2165863",
+                        "Label": "Phuket F.C."
+                  },
+                  {
+                        "ID": "Q271753",
+                        "Label": "Myanmar national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 743
+      },
+      "Which team does Bent S\u00f8rmo play for currently?": {
+            "question": "Which team does Bent S\u00f8rmo play for currently?",
+            "subject": {
+                  "subject": "Q18362652",
+                  "subLabel": "Bent S\u00f8rmo"
+            },
+            "text answers": [
+                  "S.V. Zulte Waregem"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q376635",
+                        "Label": "S.V. Zulte Waregem"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 749
+      },
+      "Which team does Daniel Ola play for currently?": {
+            "question": "Which team does Daniel Ola play for currently?",
+            "subject": {
+                  "subject": "Q3392553",
+                  "subLabel": "Daniel Ola"
+            },
+            "text answers": [
+                  "A.S. Bisceglie Calcio 1913"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3626796",
+                        "Label": "A.S. Bisceglie Calcio 1913"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 751
+      },
+      "Which team does Volodymyr Gerun play for currently?": {
+            "question": "Which team does Volodymyr Gerun play for currently?",
+            "subject": {
+                  "subject": "Q23759966",
+                  "subLabel": "Volodymyr Gerun"
+            },
+            "text answers": [
+                  "Sendai 89ers"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q7450169",
+                        "Label": "Sendai 89ers"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 775
+      },
+      "Which team does Dejana Stefanovi\u0107 play for currently?": {
+            "question": "Which team does Dejana Stefanovi\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q66841030",
+                  "subLabel": "Dejana Stefanovi\u0107"
+            },
+            "text answers": [
+                  "V\u00e5lerenga Fotball Damer"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q7944477",
+                        "Label": "V\u00e5lerenga Fotball Damer"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 793
+      },
+      "Which team does Musaed Neda play for currently?": {
+            "question": "Which team does Musaed Neda play for currently?",
+            "subject": {
+                  "subject": "Q4116062",
+                  "subLabel": "Musaed Neda"
+            },
+            "text answers": [
+                  "Al-Salmiya SC",
+                  "Kuwait national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q126301",
+                        "Label": "Al-Salmiya SC"
+                  },
+                  {
+                        "ID": "Q206828",
+                        "Label": "Kuwait national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 809
+      },
+      "Which team does Moti Malka play for currently?": {
+            "question": "Which team does Moti Malka play for currently?",
+            "subject": {
+                  "subject": "Q10514717",
+                  "subLabel": "Moti Malka"
+            },
+            "text answers": [
+                  "Maccabi Netanya F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q426513",
+                        "Label": "Maccabi Netanya F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 815
+      },
+      "Which team does Luca Bigi play for currently?": {
+            "question": "Which team does Luca Bigi play for currently?",
+            "subject": {
+                  "subject": "Q41794215",
+                  "subLabel": "Luca Bigi"
+            },
+            "text answers": [
+                  "Zebre",
+                  "Italy national rugby union team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q950674",
+                        "Label": "Zebre"
+                  },
+                  {
+                        "ID": "Q113135",
+                        "Label": "Italy national rugby union team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 841
+      },
+      "Which team does Henrik Furebotn play for currently?": {
+            "question": "Which team does Henrik Furebotn play for currently?",
+            "subject": {
+                  "subject": "Q1789885",
+                  "subLabel": "Henrik Furebotn"
+            },
+            "text answers": [
+                  "FK Bod\u00f8/Glimt"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q478167",
+                        "Label": "FK Bod\u00f8/Glimt"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 847
+      },
+      "Which team does Igor Pisanjuk play for currently?": {
+            "question": "Which team does Igor Pisanjuk play for currently?",
+            "subject": {
+                  "subject": "Q1096166",
+                  "subLabel": "Igor Pisanjuk"
+            },
+            "text answers": [
+                  "North York Astros"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q969708",
+                        "Label": "North York Astros"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 861
+      },
+      "Which team does S\u00e9bastien Dewaest play for currently?": {
+            "question": "Which team does S\u00e9bastien Dewaest play for currently?",
+            "subject": {
+                  "subject": "Q14438736",
+                  "subLabel": "S\u00e9bastien Dewaest"
+            },
+            "text answers": [
+                  "AEL Limassol FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q291471",
+                        "Label": "AEL Limassol FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 867
+      },
+      "Which team does Roman Bolbocian play for currently?": {
+            "question": "Which team does Roman Bolbocian play for currently?",
+            "subject": {
+                  "subject": "Q7361594",
+                  "subLabel": "Roman Bolbocian"
+            },
+            "text answers": [
+                  "Fokikos F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3292674",
+                        "Label": "Fokikos F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 871
+      },
+      "Which team does Aluisio da Silva Neres Junior play for currently?": {
+            "question": "Which team does Aluisio da Silva Neres Junior play for currently?",
+            "subject": {
+                  "subject": "Q3613395",
+                  "subLabel": "Aluisio da Silva Neres Junior"
+            },
+            "text answers": [
+                  "Al-Fujairah FC",
+                  "Dibba Al-Hisn Sports Club"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2084032",
+                        "Label": "Al-Fujairah FC"
+                  },
+                  {
+                        "ID": "Q3706871",
+                        "Label": "Dibba Al-Hisn Sports Club"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 875
+      },
+      "Which team does Keith Hornsby play for currently?": {
+            "question": "Which team does Keith Hornsby play for currently?",
+            "subject": {
+                  "subject": "Q26251744",
+                  "subLabel": "Keith Hornsby"
+            },
+            "text answers": [
+                  "Texas Legends",
+                  "UNC Asheville Bulldogs men's basketball"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q168506",
+                        "Label": "Texas Legends"
+                  },
+                  {
+                        "ID": "Q7865223",
+                        "Label": "UNC Asheville Bulldogs men's basketball"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 889
+      },
+      "Which team does Jamal Campbell-Ryce play for currently?": {
+            "question": "Which team does Jamal Campbell-Ryce play for currently?",
+            "subject": {
+                  "subject": "Q1773764",
+                  "subLabel": "Jamal Campbell-Ryce"
+            },
+            "text answers": [
+                  "Chesterfield F.C.",
+                  "Sheffield United F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q48935",
+                        "Label": "Chesterfield F.C."
+                  },
+                  {
+                        "ID": "Q19607",
+                        "Label": "Sheffield United F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 893
+      },
+      "Which team does Jos\u00e9 P\u00e9rez Ferrada play for currently?": {
+            "question": "Which team does Jos\u00e9 P\u00e9rez Ferrada play for currently?",
+            "subject": {
+                  "subject": "Q6293753",
+                  "subLabel": "Jos\u00e9 P\u00e9rez Ferrada"
+            },
+            "text answers": [
+                  "C.D. Universidad de Concepci\u00f3n"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q721560",
+                        "Label": "C.D. Universidad de Concepci\u00f3n"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 897
+      },
+      "Which team does Ihor Yaroslavovych Khudobyak play for currently?": {
+            "question": "Which team does Ihor Yaroslavovych Khudobyak play for currently?",
+            "subject": {
+                  "subject": "Q2634266",
+                  "subLabel": "Ihor Yaroslavovych Khudobyak"
+            },
+            "text answers": [
+                  "Ukraine national association football team",
+                  "FC Karpaty Lviv"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q170403",
+                        "Label": "Ukraine national association football team"
+                  },
+                  {
+                        "ID": "Q223360",
+                        "Label": "FC Karpaty Lviv"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 901
+      },
+      "Which team does Carlos Balc\u00e1zar play for currently?": {
+            "question": "Which team does Carlos Balc\u00e1zar play for currently?",
+            "subject": {
+                  "subject": "Q5041808",
+                  "subLabel": "Carlos Balc\u00e1zar"
+            },
+            "text answers": [
+                  "Atl\u00e9tico Irapuato"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1023193",
+                        "Label": "Atl\u00e9tico Irapuato"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 933
+      },
+      "Which team does Yvan Dibango play for currently?": {
+            "question": "Which team does Yvan Dibango play for currently?",
+            "subject": {
+                  "subject": "Q106653075",
+                  "subLabel": "Yvan Dibango"
+            },
+            "text answers": [
+                  "FCI Levadia Tallinn"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q210849",
+                        "Label": "FCI Levadia Tallinn"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 941
+      },
+      "Which team does Hironori Saruta play for currently?": {
+            "question": "Which team does Hironori Saruta play for currently?",
+            "subject": {
+                  "subject": "Q3309817",
+                  "subLabel": "Hironori Saruta"
+            },
+            "text answers": [
+                  "Chiangrai United F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2793662",
+                        "Label": "Chiangrai United F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 945
+      },
+      "Which team does Tobias Borg play for currently?": {
+            "question": "Which team does Tobias Borg play for currently?",
+            "subject": {
+                  "subject": "Q5582421",
+                  "subLabel": "Tobias Borg"
+            },
+            "text answers": [
+                  "BC Andorra"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q43973",
+                        "Label": "BC Andorra"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 955
+      },
+      "Which team does Nora Heroum play for currently?": {
+            "question": "Which team does Nora Heroum play for currently?",
+            "subject": {
+                  "subject": "Q13733010",
+                  "subLabel": "Nora Heroum"
+            },
+            "text answers": [
+                  "Brighton & Hove Albion W.F.C.",
+                  "Fortuna Hj\u00f8rring",
+                  "Finland women's national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q4967588",
+                        "Label": "Brighton & Hove Albion W.F.C."
+                  },
+                  {
+                        "ID": "Q1439076",
+                        "Label": "Fortuna Hj\u00f8rring"
+                  },
+                  {
+                        "ID": "Q847121",
+                        "Label": "Finland women's national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 959
+      },
+      "Which team does Nils Pichinot play for currently?": {
+            "question": "Which team does Nils Pichinot play for currently?",
+            "subject": {
+                  "subject": "Q1992426",
+                  "subLabel": "Nils Pichinot"
+            },
+            "text answers": [
+                  "FSV Wacker 90 Nordhausen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q319900",
+                        "Label": "FSV Wacker 90 Nordhausen"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 977
+      },
+      "Which team does Jonathan Carlsbog\u00e5rd play for currently?": {
+            "question": "Which team does Jonathan Carlsbog\u00e5rd play for currently?",
+            "subject": {
+                  "subject": "Q69931772",
+                  "subLabel": "Jonathan Carlsbog\u00e5rd"
+            },
+            "text answers": [
+                  "FC Barcelona Handbol"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q378906",
+                        "Label": "FC Barcelona Handbol"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 979
+      },
+      "Which team does M\u00e1rk Orosz play for currently?": {
+            "question": "Which team does M\u00e1rk Orosz play for currently?",
+            "subject": {
+                  "subject": "Q249009",
+                  "subLabel": "M\u00e1rk Orosz"
+            },
+            "text answers": [
+                  "Duna\u00fajv\u00e1ros PASE"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1242109",
+                        "Label": "Duna\u00fajv\u00e1ros PASE"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 983
+      },
+      "Which team does Ahmad Esmaeilpour play for currently?": {
+            "question": "Which team does Ahmad Esmaeilpour play for currently?",
+            "subject": {
+                  "subject": "Q4695308",
+                  "subLabel": "Ahmad Esmaeilpour"
+            },
+            "text answers": [
+                  "Giti Pasand Isfahan FSC",
+                  "Iran national futsal team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5565122",
+                        "Label": "Giti Pasand Isfahan FSC"
+                  },
+                  {
+                        "ID": "Q1672397",
+                        "Label": "Iran national futsal team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1005
+      },
+      "Which team does Emrullah \u015ealk play for currently?": {
+            "question": "Which team does Emrullah \u015ealk play for currently?",
+            "subject": {
+                  "subject": "Q1339619",
+                  "subLabel": "Emrullah \u015ealk"
+            },
+            "text answers": [
+                  "Adana Demirspor"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q352251",
+                        "Label": "Adana Demirspor"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1013
+      },
+      "Which team does Ryan Taylor play for currently?": {
+            "question": "Which team does Ryan Taylor play for currently?",
+            "subject": {
+                  "subject": "Q529034",
+                  "subLabel": "Ryan Taylor"
+            },
+            "text answers": [
+                  "Fleetwood Town F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q48941",
+                        "Label": "Fleetwood Town F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1022
+      },
+      "Which team does Yudai Nishikawa play for currently?": {
+            "question": "Which team does Yudai Nishikawa play for currently?",
+            "subject": {
+                  "subject": "Q8060201",
+                  "subLabel": "Yudai Nishikawa"
+            },
+            "text answers": [
+                  "Tochigi SC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1069091",
+                        "Label": "Tochigi SC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1026
+      },
+      "Which team does Deniz K\u0131l\u0131\u00e7l\u0131 play for currently?": {
+            "question": "Which team does Deniz K\u0131l\u0131\u00e7l\u0131 play for currently?",
+            "subject": {
+                  "subject": "Q5257865",
+                  "subLabel": "Deniz K\u0131l\u0131\u00e7l\u0131"
+            },
+            "text answers": [
+                  "Bah\u00e7e\u015fehir Koleji S.K."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q55569136",
+                        "Label": "Bah\u00e7e\u015fehir Koleji S.K."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1028
+      },
+      "Which team does Olly Barkley play for currently?": {
+            "question": "Which team does Olly Barkley play for currently?",
+            "subject": {
+                  "subject": "Q3351519",
+                  "subLabel": "Olly Barkley"
+            },
+            "text answers": [
+                  "London Welsh RFC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1048688",
+                        "Label": "London Welsh RFC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1032
+      },
+      "Which team does Jonathan Rivas play for currently?": {
+            "question": "Which team does Jonathan Rivas play for currently?",
+            "subject": {
+                  "subject": "Q16234957",
+                  "subLabel": "Jonathan Rivas"
+            },
+            "text answers": [
+                  "A.S. Nancy-Lorraine",
+                  "Les Herbiers VF",
+                  "Clermont Foot 63"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19523",
+                        "Label": "A.S. Nancy-Lorraine"
+                  },
+                  {
+                        "ID": "Q3555460",
+                        "Label": "Les Herbiers VF"
+                  },
+                  {
+                        "ID": "Q870182",
+                        "Label": "Clermont Foot 63"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1036
+      },
+      "Which team does Vitaliy Balashov play for currently?": {
+            "question": "Which team does Vitaliy Balashov play for currently?",
+            "subject": {
+                  "subject": "Q4076482",
+                  "subLabel": "Vitaliy Balashov"
+            },
+            "text answers": [
+                  "FC Turan"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q12530053",
+                        "Label": "FC Turan"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1042
+      },
+      "Which team does Tugela Tuyeni play for currently?": {
+            "question": "Which team does Tugela Tuyeni play for currently?",
+            "subject": {
+                  "subject": "Q2459290",
+                  "subLabel": "Tugela Tuyeni"
+            },
+            "text answers": [
+                  "F.C. Civics Windhoek",
+                  "F.C. Civics Windhoek"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q522993",
+                        "Label": "F.C. Civics Windhoek"
+                  },
+                  {
+                        "ID": "Q522993",
+                        "Label": "F.C. Civics Windhoek"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1044
+      },
+      "Which team does Andr\u00e9 Sim\u00f5es play for currently?": {
+            "question": "Which team does Andr\u00e9 Sim\u00f5es play for currently?",
+            "subject": {
+                  "subject": "Q4760066",
+                  "subLabel": "Andr\u00e9 Sim\u00f5es"
+            },
+            "text answers": [
+                  "AEK F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q201584",
+                        "Label": "AEK F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1070
+      },
+      "Which team does Todd Kane play for currently?": {
+            "question": "Which team does Todd Kane play for currently?",
+            "subject": {
+                  "subject": "Q6147874",
+                  "subLabel": "Todd Kane"
+            },
+            "text answers": [
+                  "N.E.C.",
+                  "Chelsea F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q318348",
+                        "Label": "N.E.C."
+                  },
+                  {
+                        "ID": "Q9616",
+                        "Label": "Chelsea F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1080
+      },
+      "Which team does Natnael Berhane play for currently?": {
+            "question": "Which team does Natnael Berhane play for currently?",
+            "subject": {
+                  "subject": "Q545055",
+                  "subLabel": "Natnael Berhane"
+            },
+            "text answers": [
+                  "Beykoz Belediyesi Spor Kul\u00fcb\u00fc"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q117317463",
+                        "Label": "Beykoz Belediyesi Spor Kul\u00fcb\u00fc"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1084
+      },
+      "Which team does Maximilian Oesterhelweg play for currently?": {
+            "question": "Which team does Maximilian Oesterhelweg play for currently?",
+            "subject": {
+                  "subject": "Q15834600",
+                  "subLabel": "Maximilian Oesterhelweg"
+            },
+            "text answers": [
+                  "FC Carl Zeiss Jena"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q155186",
+                        "Label": "FC Carl Zeiss Jena"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1094
+      },
+      "Which team does Victor Bulat play for currently?": {
+            "question": "Which team does Victor Bulat play for currently?",
+            "subject": {
+                  "subject": "Q8273186",
+                  "subLabel": "Victor Bulat"
+            },
+            "text answers": [
+                  "FC Tiraspol",
+                  "Moldova national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q775469",
+                        "Label": "FC Tiraspol"
+                  },
+                  {
+                        "ID": "Q191142",
+                        "Label": "Moldova national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1122
+      },
+      "Which team does Ahmad Deeb play for currently?": {
+            "question": "Which team does Ahmad Deeb play for currently?",
+            "subject": {
+                  "subject": "Q4695297",
+                  "subLabel": "Ahmad Deeb"
+            },
+            "text answers": [
+                  "Al-Salmiya SC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q126301",
+                        "Label": "Al-Salmiya SC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1124
+      },
+      "Which team does Micka\u00ebl Alphonse play for currently?": {
+            "question": "Which team does Micka\u00ebl Alphonse play for currently?",
+            "subject": {
+                  "subject": "Q21872401",
+                  "subLabel": "Micka\u00ebl Alphonse"
+            },
+            "text answers": [
+                  "Amiens SC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q866884",
+                        "Label": "Amiens SC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1126
+      },
+      "Which team does Fabio Morena play for currently?": {
+            "question": "Which team does Fabio Morena play for currently?",
+            "subject": {
+                  "subject": "Q551723",
+                  "subLabel": "Fabio Morena"
+            },
+            "text answers": [
+                  "Hamburger SV II"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5644342",
+                        "Label": "Hamburger SV II"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1128
+      },
+      "Which team does Coen Vermeltfoort play for currently?": {
+            "question": "Which team does Coen Vermeltfoort play for currently?",
+            "subject": {
+                  "subject": "Q1106670",
+                  "subLabel": "Coen Vermeltfoort"
+            },
+            "text answers": [
+                  "VolkerWessels Cycling Team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q50385154",
+                        "Label": "VolkerWessels Cycling Team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1134
+      },
+      "Which team does Kathleen Radtke play for currently?": {
+            "question": "Which team does Kathleen Radtke play for currently?",
+            "subject": {
+                  "subject": "Q1736284",
+                  "subLabel": "Kathleen Radtke"
+            },
+            "text answers": [
+                  "MSV Duisburg",
+                  "MSV Duisburg"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q15478049",
+                        "Label": "MSV Duisburg"
+                  },
+                  {
+                        "ID": "Q154293",
+                        "Label": "MSV Duisburg"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1156
+      },
+      "Which team does Ludovic Saline play for currently?": {
+            "question": "Which team does Ludovic Saline play for currently?",
+            "subject": {
+                  "subject": "Q21285522",
+                  "subLabel": "Ludovic Saline"
+            },
+            "text answers": [
+                  "FC Chambly"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3076567",
+                        "Label": "FC Chambly"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1164
+      },
+      "Which team does James Dunne play for currently?": {
+            "question": "Which team does James Dunne play for currently?",
+            "subject": {
+                  "subject": "Q6132961",
+                  "subLabel": "James Dunne"
+            },
+            "text answers": [
+                  "Cambridge United F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q18509",
+                        "Label": "Cambridge United F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1180
+      },
+      "Which team does Jasmin Glaesser play for currently?": {
+            "question": "Which team does Jasmin Glaesser play for currently?",
+            "subject": {
+                  "subject": "Q438689",
+                  "subLabel": "Jasmin Glaesser"
+            },
+            "text answers": [
+                  "TWENTY20 p/b Sho-Air"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16974684",
+                        "Label": "TWENTY20 p/b Sho-Air"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1182
+      },
+      "Which team does Anas Sharbini play for currently?": {
+            "question": "Which team does Anas Sharbini play for currently?",
+            "subject": {
+                  "subject": "Q486482",
+                  "subLabel": "Anas Sharbini"
+            },
+            "text answers": [
+                  "Ankaraspor"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q556570",
+                        "Label": "Ankaraspor"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1188
+      },
+      "Which team does Kevin Volland play for currently?": {
+            "question": "Which team does Kevin Volland play for currently?",
+            "subject": {
+                  "subject": "Q129810",
+                  "subLabel": "Kevin Volland"
+            },
+            "text answers": [
+                  "Bayer 04 Leverkusen",
+                  "Germany national association football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q104761",
+                        "Label": "Bayer 04 Leverkusen"
+                  },
+                  {
+                        "ID": "Q43310",
+                        "Label": "Germany national association football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1194
+      },
+      "Which team does Mikel Landa play for currently?": {
+            "question": "Which team does Mikel Landa play for currently?",
+            "subject": {
+                  "subject": "Q930658",
+                  "subLabel": "Mikel Landa"
+            },
+            "text answers": [
+                  "Soudal\u2013Quick-Step"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q645032",
+                        "Label": "Soudal\u2013Quick-Step"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1208
+      },
+      "Which team does Ionu\u021b Rada play for currently?": {
+            "question": "Which team does Ionu\u021b Rada play for currently?",
+            "subject": {
+                  "subject": "Q1672115",
+                  "subLabel": "Ionu\u021b Rada"
+            },
+            "text answers": [
+                  "CS S\u0103n\u0103tatea Servicii Publice Cluj"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1463313",
+                        "Label": "CS S\u0103n\u0103tatea Servicii Publice Cluj"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1212
+      },
+      "Which team does Ruslan Ivanov play for currently?": {
+            "question": "Which team does Ruslan Ivanov play for currently?",
+            "subject": {
+                  "subject": "Q7381003",
+                  "subLabel": "Ruslan Ivanov"
+            },
+            "text answers": [
+                  "FC Vihren Sandanski",
+                  "Episkopi F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1325004",
+                        "Label": "FC Vihren Sandanski"
+                  },
+                  {
+                        "ID": "Q1611303",
+                        "Label": "Episkopi F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1214
+      },
+      "Which team does Miguel Fl\u00f3rez L\u00f3pez play for currently?": {
+            "question": "Which team does Miguel Fl\u00f3rez L\u00f3pez play for currently?",
+            "subject": {
+                  "subject": "Q22893990",
+                  "subLabel": "Miguel Fl\u00f3rez L\u00f3pez"
+            },
+            "text answers": [
+                  "Team Banco Guayaquil-Ecuador"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q111915639",
+                        "Label": "Team Banco Guayaquil-Ecuador"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1248
+      },
+      "Which team does Mohamed Benyahia play for currently?": {
+            "question": "Which team does Mohamed Benyahia play for currently?",
+            "subject": {
+                  "subject": "Q6891092",
+                  "subLabel": "Mohamed Benyahia"
+            },
+            "text answers": [
+                  "Mouloudia Club Oranais"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q574298",
+                        "Label": "Mouloudia Club Oranais"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1250
+      },
+      "Which team does Marcus Morris Sr. play for currently?": {
+            "question": "Which team does Marcus Morris Sr. play for currently?",
+            "subject": {
+                  "subject": "Q2260799",
+                  "subLabel": "Marcus Morris Sr."
+            },
+            "text answers": [
+                  "Philadelphia 76ers",
+                  "Los Angeles Clippers",
+                  "Boston Celtics"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q138089",
+                        "Label": "Philadelphia 76ers"
+                  },
+                  {
+                        "ID": "Q976396",
+                        "Label": "Los Angeles Clippers"
+                  },
+                  {
+                        "ID": "Q131371",
+                        "Label": "Boston Celtics"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1268
+      },
+      "Which team does Leroy Fer play for currently?": {
+            "question": "Which team does Leroy Fer play for currently?",
+            "subject": {
+                  "subject": "Q795537",
+                  "subLabel": "Leroy Fer"
+            },
+            "text answers": [
+                  "Alanyaspor"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1636019",
+                        "Label": "Alanyaspor"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1286
+      },
+      "Which team does Shp\u00ebtim Hasani play for currently?": {
+            "question": "Which team does Shp\u00ebtim Hasani play for currently?",
+            "subject": {
+                  "subject": "Q132326",
+                  "subLabel": "Shp\u00ebtim Hasani"
+            },
+            "text answers": [
+                  "GIF Sundsvall",
+                  "Kosovo national association football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q725332",
+                        "Label": "GIF Sundsvall"
+                  },
+                  {
+                        "ID": "Q113143",
+                        "Label": "Kosovo national association football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1288
+      },
+      "Which team does Jean Pierre Fuentes play for currently?": {
+            "question": "Which team does Jean Pierre Fuentes play for currently?",
+            "subject": {
+                  "subject": "Q6171353",
+                  "subLabel": "Jean Pierre Fuentes"
+            },
+            "text answers": [
+                  "Uni\u00f3n Comercio"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q602800",
+                        "Label": "Uni\u00f3n Comercio"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1290
+      },
+      "Which team does Petar Franji\u0107 play for currently?": {
+            "question": "Which team does Petar Franji\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q7171702",
+                  "subLabel": "Petar Franji\u0107"
+            },
+            "text answers": [
+                  "RNK Split"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1255000",
+                        "Label": "RNK Split"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1294
+      },
+      "Which team does Darwin Atapuma play for currently?": {
+            "question": "Which team does Darwin Atapuma play for currently?",
+            "subject": {
+                  "subject": "Q930274",
+                  "subLabel": "Darwin Atapuma"
+            },
+            "text answers": [
+                  "Beykoz Belediyesi Spor Kul\u00fcb\u00fc"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q117317463",
+                        "Label": "Beykoz Belediyesi Spor Kul\u00fcb\u00fc"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1304
+      },
+      "Which team does Khaled Lemmouchia play for currently?": {
+            "question": "Which team does Khaled Lemmouchia play for currently?",
+            "subject": {
+                  "subject": "Q2408265",
+                  "subLabel": "Khaled Lemmouchia"
+            },
+            "text answers": [
+                  "Mouloudia Club Oranais"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q574298",
+                        "Label": "Mouloudia Club Oranais"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1318
+      },
+      "Which team does Alfredo Mej\u00eda play for currently?": {
+            "question": "Which team does Alfredo Mej\u00eda play for currently?",
+            "subject": {
+                  "subject": "Q2077232",
+                  "subLabel": "Alfredo Mej\u00eda"
+            },
+            "text answers": [
+                  "Panthrakikos F.C.",
+                  "Honduras national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q433230",
+                        "Label": "Panthrakikos F.C."
+                  },
+                  {
+                        "ID": "Q180187",
+                        "Label": "Honduras national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1338
+      },
+      "Which team does Jonjoe Kenny play for currently?": {
+            "question": "Which team does Jonjoe Kenny play for currently?",
+            "subject": {
+                  "subject": "Q18015191",
+                  "subLabel": "Jonjoe Kenny"
+            },
+            "text answers": [
+                  "Hertha BSC",
+                  "Oxford United F.C.",
+                  "England national under-19 association football team",
+                  "Everton F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q102720",
+                        "Label": "Hertha BSC"
+                  },
+                  {
+                        "ID": "Q48946",
+                        "Label": "Oxford United F.C."
+                  },
+                  {
+                        "ID": "Q2358861",
+                        "Label": "England national under-19 association football team"
+                  },
+                  {
+                        "ID": "Q5794",
+                        "Label": "Everton F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1358
+      },
+      "Which team does Jo\u00e3o G\u00f3is play for currently?": {
+            "question": "Which team does Jo\u00e3o G\u00f3is play for currently?",
+            "subject": {
+                  "subject": "Q16233175",
+                  "subLabel": "Jo\u00e3o G\u00f3is"
+            },
+            "text answers": [
+                  "F.C. Pa\u00e7os de Ferreira"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q371136",
+                        "Label": "F.C. Pa\u00e7os de Ferreira"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1384
+      },
+      "Which team does Pedro R\u00edos play for currently?": {
+            "question": "Which team does Pedro R\u00edos play for currently?",
+            "subject": {
+                  "subject": "Q2711341",
+                  "subLabel": "Pedro R\u00edos"
+            },
+            "text answers": [
+                  "C\u00f3rdoba CF"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q10499",
+                        "Label": "C\u00f3rdoba CF"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1388
+      },
+      "Which team does Martin Spelmann play for currently?": {
+            "question": "Which team does Martin Spelmann play for currently?",
+            "subject": {
+                  "subject": "Q4994607",
+                  "subLabel": "Martin Spelmann"
+            },
+            "text answers": [
+                  "Aarhus Gymnastikforening",
+                  "Gen\u00e7lerbirli\u011fi S.K."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q301431",
+                        "Label": "Aarhus Gymnastikforening"
+                  },
+                  {
+                        "ID": "Q641373",
+                        "Label": "Gen\u00e7lerbirli\u011fi S.K."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1424
+      },
+      "Which team does Hou Junjie play for currently?": {
+            "question": "Which team does Hou Junjie play for currently?",
+            "subject": {
+                  "subject": "Q16235490",
+                  "subLabel": "Hou Junjie"
+            },
+            "text answers": [
+                  "Guangzhou City F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1192340",
+                        "Label": "Guangzhou City F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1436
+      },
+      "Which team does Rafael Andriato play for currently?": {
+            "question": "Which team does Rafael Andriato play for currently?",
+            "subject": {
+                  "subject": "Q129063",
+                  "subLabel": "Rafael Andriato"
+            },
+            "text answers": [
+                  "Swift Carbon Pro Cycling Brasil"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q110624831",
+                        "Label": "Swift Carbon Pro Cycling Brasil"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1448
+      },
+      "Which team does Vedran Je\u0161e play for currently?": {
+            "question": "Which team does Vedran Je\u0161e play for currently?",
+            "subject": {
+                  "subject": "Q2057188",
+                  "subLabel": "Vedran Je\u0161e"
+            },
+            "text answers": [
+                  "HNK Primorac Biograd na Moru"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5635309",
+                        "Label": "HNK Primorac Biograd na Moru"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1452
+      },
+      "Which team does Antonio Teles play for currently?": {
+            "question": "Which team does Antonio Teles play for currently?",
+            "subject": {
+                  "subject": "Q4776999",
+                  "subLabel": "Antonio Teles"
+            },
+            "text answers": [
+                  "Persiba Balikpapan"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1358297",
+                        "Label": "Persiba Balikpapan"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1456
+      },
+      "Which team does Okan Kurt play for currently?": {
+            "question": "Which team does Okan Kurt play for currently?",
+            "subject": {
+                  "subject": "Q14778657",
+                  "subLabel": "Okan Kurt"
+            },
+            "text answers": [
+                  "Chemnitzer FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q161554",
+                        "Label": "Chemnitzer FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1468
+      },
+      "Which team does Naoki Wako play for currently?": {
+            "question": "Which team does Naoki Wako play for currently?",
+            "subject": {
+                  "subject": "Q289213",
+                  "subLabel": "Naoki Wako"
+            },
+            "text answers": [
+                  "Kashiwa Reysol"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q844931",
+                        "Label": "Kashiwa Reysol"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1484
+      },
+      "Which team does Tlou Molekwane play for currently?": {
+            "question": "Which team does Tlou Molekwane play for currently?",
+            "subject": {
+                  "subject": "Q7810752",
+                  "subLabel": "Tlou Molekwane"
+            },
+            "text answers": [
+                  "Polokwane City F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q7225920",
+                        "Label": "Polokwane City F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1506
+      },
+      "Which team does Alexandru Greab play for currently?": {
+            "question": "Which team does Alexandru Greab play for currently?",
+            "subject": {
+                  "subject": "Q16234598",
+                  "subLabel": "Alexandru Greab"
+            },
+            "text answers": [
+                  "FC Gloria Buz\u0103u"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q55216389",
+                        "Label": "FC Gloria Buz\u0103u"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1520
+      },
+      "Which team does Josh Yorwerth play for currently?": {
+            "question": "Which team does Josh Yorwerth play for currently?",
+            "subject": {
+                  "subject": "Q20878285",
+                  "subLabel": "Josh Yorwerth"
+            },
+            "text answers": [
+                  "Crawley Town F.C.",
+                  "Ipswich Town F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19584",
+                        "Label": "Crawley Town F.C."
+                  },
+                  {
+                        "ID": "Q9653",
+                        "Label": "Ipswich Town F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1528
+      },
+      "Which team does Lewis Killeen play for currently?": {
+            "question": "Which team does Lewis Killeen play for currently?",
+            "subject": {
+                  "subject": "Q6536767",
+                  "subLabel": "Lewis Killeen"
+            },
+            "text answers": [
+                  "Droylsden F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q661543",
+                        "Label": "Droylsden F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1544
+      },
+      "Which team does Mihael Orachev play for currently?": {
+            "question": "Which team does Mihael Orachev play for currently?",
+            "subject": {
+                  "subject": "Q12287014",
+                  "subLabel": "Mihael Orachev"
+            },
+            "text answers": [
+                  "PFC Chernomorets Pomorie"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1136977",
+                        "Label": "PFC Chernomorets Pomorie"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1552
+      },
+      "Which team does Naser Al Sebai play for currently?": {
+            "question": "Which team does Naser Al Sebai play for currently?",
+            "subject": {
+                  "subject": "Q6966703",
+                  "subLabel": "Naser Al Sebai"
+            },
+            "text answers": [
+                  "Bali United F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q4430615",
+                        "Label": "Bali United F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1556
+      },
+      "Which team does Fatih \u015een play for currently?": {
+            "question": "Which team does Fatih \u015een play for currently?",
+            "subject": {
+                  "subject": "Q1398126",
+                  "subLabel": "Fatih \u015een"
+            },
+            "text answers": [
+                  "Pendikspor"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1347349",
+                        "Label": "Pendikspor"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1558
+      },
+      "Which team does Damien Da Silva play for currently?": {
+            "question": "Which team does Damien Da Silva play for currently?",
+            "subject": {
+                  "subject": "Q5212408",
+                  "subLabel": "Damien Da Silva"
+            },
+            "text answers": [
+                  "Olympique Lyonnais"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q704",
+                        "Label": "Olympique Lyonnais"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1562
+      },
+      "Which team does Ahmad Sedik play for currently?": {
+            "question": "Which team does Ahmad Sedik play for currently?",
+            "subject": {
+                  "subject": "Q4695465",
+                  "subLabel": "Ahmad Sedik"
+            },
+            "text answers": [
+                  "Al Ittihad Alexandria Club"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2084802",
+                        "Label": "Al Ittihad Alexandria Club"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1568
+      },
+      "Which team does Dion Donohue play for currently?": {
+            "question": "Which team does Dion Donohue play for currently?",
+            "subject": {
+                  "subject": "Q21621193",
+                  "subLabel": "Dion Donohue"
+            },
+            "text answers": [
+                  "Chesterfield F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q48935",
+                        "Label": "Chesterfield F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1570
+      },
+      "Which team does Zaza Pachulia play for currently?": {
+            "question": "Which team does Zaza Pachulia play for currently?",
+            "subject": {
+                  "subject": "Q319614",
+                  "subLabel": "Zaza Pachulia"
+            },
+            "text answers": [
+                  "Golden State Warriors"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q157376",
+                        "Label": "Golden State Warriors"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1623
+      },
+      "Which team does Dalibor Vola\u0161 play for currently?": {
+            "question": "Which team does Dalibor Vola\u0161 play for currently?",
+            "subject": {
+                  "subject": "Q3701055",
+                  "subLabel": "Dalibor Vola\u0161"
+            },
+            "text answers": [
+                  "Sparta Rotterdam"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q209895",
+                        "Label": "Sparta Rotterdam"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1635
+      },
+      "Which team does Jaycee Gebhard play for currently?": {
+            "question": "Which team does Jaycee Gebhard play for currently?",
+            "subject": {
+                  "subject": "Q92461132",
+                  "subLabel": "Jaycee Gebhard"
+            },
+            "text answers": [
+                  "Bryn\u00e4s IF Dam"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q10436587",
+                        "Label": "Bryn\u00e4s IF Dam"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1637
+      },
+      "Which team does Cl\u00e9ment Badin play for currently?": {
+            "question": "Which team does Cl\u00e9ment Badin play for currently?",
+            "subject": {
+                  "subject": "Q19281632",
+                  "subLabel": "Cl\u00e9ment Badin"
+            },
+            "text answers": [
+                  "Bergerac P\u00e9rigord FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2897087",
+                        "Label": "Bergerac P\u00e9rigord FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1639
+      },
+      "Which team does Andrei Ciolacu play for currently?": {
+            "question": "Which team does Andrei Ciolacu play for currently?",
+            "subject": {
+                  "subject": "Q4755761",
+                  "subLabel": "Andrei Ciolacu"
+            },
+            "text answers": [
+                  "Birkirkara F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q803976",
+                        "Label": "Birkirkara F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1645
+      },
+      "Which team does Milan Joksimovi\u0107 play for currently?": {
+            "question": "Which team does Milan Joksimovi\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q16914088",
+                  "subLabel": "Milan Joksimovi\u0107"
+            },
+            "text answers": [
+                  "FK Mladost Lu\u010dani"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1945740",
+                        "Label": "FK Mladost Lu\u010dani"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1651
+      },
+      "Which team does Curtis Samuel play for currently?": {
+            "question": "Which team does Curtis Samuel play for currently?",
+            "subject": {
+                  "subject": "Q26923682",
+                  "subLabel": "Curtis Samuel"
+            },
+            "text answers": [
+                  "Washington Commanders"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q212654",
+                        "Label": "Washington Commanders"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1653
+      },
+      "Which team does Nikola \u017di\u017ei\u0107 play for currently?": {
+            "question": "Which team does Nikola \u017di\u017ei\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q552827",
+                  "subLabel": "Nikola \u017di\u017ei\u0107"
+            },
+            "text answers": [
+                  "NK Istra 1961"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q725916",
+                        "Label": "NK Istra 1961"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1655
+      },
+      "Which team does Talaohu Musafri play for currently?": {
+            "question": "Which team does Talaohu Musafri play for currently?",
+            "subject": {
+                  "subject": "Q7678891",
+                  "subLabel": "Talaohu Musafri"
+            },
+            "text answers": [
+                  "Sriwijaya F.C.",
+                  "Indonesia national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1152000",
+                        "Label": "Sriwijaya F.C."
+                  },
+                  {
+                        "ID": "Q657451",
+                        "Label": "Indonesia national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1659
+      },
+      "Which team does Giancarlo Improta play for currently?": {
+            "question": "Which team does Giancarlo Improta play for currently?",
+            "subject": {
+                  "subject": "Q5558059",
+                  "subLabel": "Giancarlo Improta"
+            },
+            "text answers": [
+                  "A.S.D. Jolly Montemurlo"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16842284",
+                        "Label": "A.S.D. Jolly Montemurlo"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1661
+      },
+      "Which team does Dudu Biton play for currently?": {
+            "question": "Which team does Dudu Biton play for currently?",
+            "subject": {
+                  "subject": "Q2005343",
+                  "subLabel": "Dudu Biton"
+            },
+            "text answers": [
+                  "Hapoel Kfar Saba F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q761583",
+                        "Label": "Hapoel Kfar Saba F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1675
+      },
+      "Which team does Sergei Vladimirovich Panov play for currently?": {
+            "question": "Which team does Sergei Vladimirovich Panov play for currently?",
+            "subject": {
+                  "subject": "Q4845804",
+                  "subLabel": "Sergei Vladimirovich Panov"
+            },
+            "text answers": [
+                  "FC Sakhalin Yuzhno-Sakhalinsk"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2631868",
+                        "Label": "FC Sakhalin Yuzhno-Sakhalinsk"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1679
+      },
+      "Which team does Daniel Heuer Fernandes play for currently?": {
+            "question": "Which team does Daniel Heuer Fernandes play for currently?",
+            "subject": {
+                  "subject": "Q15120696",
+                  "subLabel": "Daniel Heuer Fernandes"
+            },
+            "text answers": [
+                  "SC Paderborn 07"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q160532",
+                        "Label": "SC Paderborn 07"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1685
+      },
+      "Which team does Florian Loshaj play for currently?": {
+            "question": "Which team does Florian Loshaj play for currently?",
+            "subject": {
+                  "subject": "Q27649605",
+                  "subLabel": "Florian Loshaj"
+            },
+            "text answers": [
+                  "KS Cracovia"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q24074158",
+                        "Label": "KS Cracovia"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1695
+      },
+      "Which team does Jonathan Kodjia play for currently?": {
+            "question": "Which team does Jonathan Kodjia play for currently?",
+            "subject": {
+                  "subject": "Q6273598",
+                  "subLabel": "Jonathan Kodjia"
+            },
+            "text answers": [
+                  "Bristol City F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19456",
+                        "Label": "Bristol City F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1697
+      },
+      "Which team does Kostyantyn Kravchenko play for currently?": {
+            "question": "Which team does Kostyantyn Kravchenko play for currently?",
+            "subject": {
+                  "subject": "Q2720331",
+                  "subLabel": "Kostyantyn Kravchenko"
+            },
+            "text answers": [
+                  "FC Stal Kamianske"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2233089",
+                        "Label": "FC Stal Kamianske"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1701
+      },
+      "Which team does Andreea Popa play for currently?": {
+            "question": "Which team does Andreea Popa play for currently?",
+            "subject": {
+                  "subject": "Q55409139",
+                  "subLabel": "Andreea Popa"
+            },
+            "text answers": [
+                  "CS Minaur Baia Mare"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q31180911",
+                        "Label": "CS Minaur Baia Mare"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1705
+      },
+      "Which team does Lucas Musculus play for currently?": {
+            "question": "Which team does Lucas Musculus play for currently?",
+            "subject": {
+                  "subject": "Q1701753",
+                  "subLabel": "Lucas Musculus"
+            },
+            "text answers": [
+                  "Bonner SC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q568276",
+                        "Label": "Bonner SC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1713
+      },
+      "Which team does Patrick Schelling play for currently?": {
+            "question": "Which team does Patrick Schelling play for currently?",
+            "subject": {
+                  "subject": "Q2057952",
+                  "subLabel": "Patrick Schelling"
+            },
+            "text answers": [
+                  "Israel-Premier Tech"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19726567",
+                        "Label": "Israel-Premier Tech"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1727
+      },
+      "Which team does Anthony Sichi play for currently?": {
+            "question": "Which team does Anthony Sichi play for currently?",
+            "subject": {
+                  "subject": "Q4773472",
+                  "subLabel": "Anthony Sichi"
+            },
+            "text answers": [
+                  "AS Cannes"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q298267",
+                        "Label": "AS Cannes"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1747
+      },
+      "Which team does Adisorn Promrak play for currently?": {
+            "question": "Which team does Adisorn Promrak play for currently?",
+            "subject": {
+                  "subject": "Q16146337",
+                  "subLabel": "Adisorn Promrak"
+            },
+            "text answers": [
+                  "Thailand national football team",
+                  "Police Tebrau F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q239549",
+                        "Label": "Thailand national football team"
+                  },
+                  {
+                        "ID": "Q602827",
+                        "Label": "Police Tebrau F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1749
+      },
+      "Which team does Jetse Bol play for currently?": {
+            "question": "Which team does Jetse Bol play for currently?",
+            "subject": {
+                  "subject": "Q941213",
+                  "subLabel": "Jetse Bol"
+            },
+            "text answers": [
+                  "Burgos-BH"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1015171",
+                        "Label": "Burgos-BH"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1751
+      },
+      "Which team does Sampson Cudjoe play for currently?": {
+            "question": "Which team does Sampson Cudjoe play for currently?",
+            "subject": {
+                  "subject": "Q7410213",
+                  "subLabel": "Sampson Cudjoe"
+            },
+            "text answers": [
+                  "Accra Hearts of Oak SC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q339560",
+                        "Label": "Accra Hearts of Oak SC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1773
+      },
+      "Which team does Jonas Vinck play for currently?": {
+            "question": "Which team does Jonas Vinck play for currently?",
+            "subject": {
+                  "subject": "Q27333197",
+                  "subLabel": "Jonas Vinck"
+            },
+            "text answers": [
+                  "K.S.V. Roeselare"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1053917",
+                        "Label": "K.S.V. Roeselare"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1964
+      },
+      "Which team does Harm Zeinstra play for currently?": {
+            "question": "Which team does Harm Zeinstra play for currently?",
+            "subject": {
+                  "subject": "Q2157108",
+                  "subLabel": "Harm Zeinstra"
+            },
+            "text answers": [
+                  "SC Cambuur"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q875120",
+                        "Label": "SC Cambuur"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1970
+      },
+      "Which team does Benjamin Jeannot play for currently?": {
+            "question": "Which team does Benjamin Jeannot play for currently?",
+            "subject": {
+                  "subject": "Q2244180",
+                  "subLabel": "Benjamin Jeannot"
+            },
+            "text answers": [
+                  "Stade Malherbe Caen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q193377",
+                        "Label": "Stade Malherbe Caen"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1992
+      },
+      "Which team does Meghdad Ghobakhlou play for currently?": {
+            "question": "Which team does Meghdad Ghobakhlou play for currently?",
+            "subject": {
+                  "subject": "Q6809062",
+                  "subLabel": "Meghdad Ghobakhlou"
+            },
+            "text answers": [
+                  "Gostaresh Foolad F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3055146",
+                        "Label": "Gostaresh Foolad F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1996
+      },
+      "Which team does Joseph Kamwendo play for currently?": {
+            "question": "Which team does Joseph Kamwendo play for currently?",
+            "subject": {
+                  "subject": "Q2700585",
+                  "subLabel": "Joseph Kamwendo"
+            },
+            "text answers": [
+                  "Malawi national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q365548",
+                        "Label": "Malawi national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 1998
+      },
+      "Which team does Christophe Noppe play for currently?": {
+            "question": "Which team does Christophe Noppe play for currently?",
+            "subject": {
+                  "subject": "Q23046161",
+                  "subLabel": "Christophe Noppe"
+            },
+            "text answers": [
+                  "Cofidis"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q900288",
+                        "Label": "Cofidis"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2016
+      },
+      "Which team does Sofiane Hanni play for currently?": {
+            "question": "Which team does Sofiane Hanni play for currently?",
+            "subject": {
+                  "subject": "Q1718258",
+                  "subLabel": "Sofiane Hanni"
+            },
+            "text answers": [
+                  "R.S.C. Anderlecht"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q187528",
+                        "Label": "R.S.C. Anderlecht"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2020
+      },
+      "Which team does Ivelin Yanev play for currently?": {
+            "question": "Which team does Ivelin Yanev play for currently?",
+            "subject": {
+                  "subject": "Q6098666",
+                  "subLabel": "Ivelin Yanev"
+            },
+            "text answers": [
+                  "FC Karnobat"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q20895498",
+                        "Label": "FC Karnobat"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2026
+      },
+      "Which team does Kriszti\u00e1n Vad\u00f3cz play for currently?": {
+            "question": "Which team does Kriszti\u00e1n Vad\u00f3cz play for currently?",
+            "subject": {
+                  "subject": "Q115101",
+                  "subLabel": "Kriszti\u00e1n Vad\u00f3cz"
+            },
+            "text answers": [
+                  "Perth Glory FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q852033",
+                        "Label": "Perth Glory FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2039
+      },
+      "Which team does Markos Maragoudakis play for currently?": {
+            "question": "Which team does Markos Maragoudakis play for currently?",
+            "subject": {
+                  "subject": "Q20744522",
+                  "subLabel": "Markos Maragoudakis"
+            },
+            "text answers": [
+                  "Aris Limassol F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q367788",
+                        "Label": "Aris Limassol F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2067
+      },
+      "Which team does Beatrice Rossato play for currently?": {
+            "question": "Which team does Beatrice Rossato play for currently?",
+            "subject": {
+                  "subject": "Q19661808",
+                  "subLabel": "Beatrice Rossato"
+            },
+            "text answers": [
+                  "Isolmant\u2013Premac\u2013Vittoria"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q30330282",
+                        "Label": "Isolmant\u2013Premac\u2013Vittoria"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2085
+      },
+      "Which team does Admir Ujkaj play for currently?": {
+            "question": "Which team does Admir Ujkaj play for currently?",
+            "subject": {
+                  "subject": "Q23761998",
+                  "subLabel": "Admir Ujkaj"
+            },
+            "text answers": [
+                  "KS Burreli"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1382235",
+                        "Label": "KS Burreli"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2091
+      },
+      "Which team does Malcom Edjouma play for currently?": {
+            "question": "Which team does Malcom Edjouma play for currently?",
+            "subject": {
+                  "subject": "Q56255430",
+                  "subLabel": "Malcom Edjouma"
+            },
+            "text answers": [
+                  "SSC Bari"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q6641",
+                        "Label": "SSC Bari"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2095
+      },
+      "Which team does Todor Kyuchukov play for currently?": {
+            "question": "Which team does Todor Kyuchukov play for currently?",
+            "subject": {
+                  "subject": "Q3530305",
+                  "subLabel": "Todor Kyuchukov"
+            },
+            "text answers": [
+                  "FC Bdin"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2310138",
+                        "Label": "FC Bdin"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2101
+      },
+      "Which team does Dmytro Matviyenko play for currently?": {
+            "question": "Which team does Dmytro Matviyenko play for currently?",
+            "subject": {
+                  "subject": "Q16234800",
+                  "subLabel": "Dmytro Matviyenko"
+            },
+            "text answers": [
+                  "FC Tiraspol"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q775469",
+                        "Label": "FC Tiraspol"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2105
+      },
+      "Which team does Jedaias Capucho Neves play for currently?": {
+            "question": "Which team does Jedaias Capucho Neves play for currently?",
+            "subject": {
+                  "subject": "Q2447035",
+                  "subLabel": "Jedaias Capucho Neves"
+            },
+            "text answers": [
+                  "S.S.D. Casarano Calcio"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q4014613",
+                        "Label": "S.S.D. Casarano Calcio"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2113
+      },
+      "Which team does Masakazu Kihara play for currently?": {
+            "question": "Which team does Masakazu Kihara play for currently?",
+            "subject": {
+                  "subject": "Q10526764",
+                  "subLabel": "Masakazu Kihara"
+            },
+            "text answers": [
+                  "Tri Asia Phnom Penh FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16852726",
+                        "Label": "Tri Asia Phnom Penh FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2119
+      },
+      "Which team does George Pu\u0219ca\u0219 play for currently?": {
+            "question": "Which team does George Pu\u0219ca\u0219 play for currently?",
+            "subject": {
+                  "subject": "Q16301719",
+                  "subLabel": "George Pu\u0219ca\u0219"
+            },
+            "text answers": [
+                  "SSC Bari",
+                  "Genoa CFC",
+                  "Romania national association football team",
+                  "Romania national under-21 football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q6641",
+                        "Label": "SSC Bari"
+                  },
+                  {
+                        "ID": "Q2074",
+                        "Label": "Genoa CFC"
+                  },
+                  {
+                        "ID": "Q168397",
+                        "Label": "Romania national association football team"
+                  },
+                  {
+                        "ID": "Q2175909",
+                        "Label": "Romania national under-21 football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2123
+      },
+      "Which team does Milorad Savi\u0107 play for currently?": {
+            "question": "Which team does Milorad Savi\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q18127810",
+                  "subLabel": "Milorad Savi\u0107"
+            },
+            "text answers": [
+                  "FK Radnik Surdulica"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5426356",
+                        "Label": "FK Radnik Surdulica"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2137
+      },
+      "Which team does Daniel Mustaf\u00e1 play for currently?": {
+            "question": "Which team does Daniel Mustaf\u00e1 play for currently?",
+            "subject": {
+                  "subject": "Q5218222",
+                  "subLabel": "Daniel Mustaf\u00e1"
+            },
+            "text answers": [
+                  "Club Deportivo \u00d1ublense",
+                  "Palestine national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2317539",
+                        "Label": "Club Deportivo \u00d1ublense"
+                  },
+                  {
+                        "ID": "Q276076",
+                        "Label": "Palestine national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2143
+      },
+      "Which team does Emre Can play for currently?": {
+            "question": "Which team does Emre Can play for currently?",
+            "subject": {
+                  "subject": "Q27694",
+                  "subLabel": "Emre Can"
+            },
+            "text answers": [
+                  "Borussia Dortmund",
+                  "Germany national association football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q41420",
+                        "Label": "Borussia Dortmund"
+                  },
+                  {
+                        "ID": "Q43310",
+                        "Label": "Germany national association football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2147
+      },
+      "Which team does Pietro Visconti play for currently?": {
+            "question": "Which team does Pietro Visconti play for currently?",
+            "subject": {
+                  "subject": "Q18195738",
+                  "subLabel": "Pietro Visconti"
+            },
+            "text answers": [
+                  "U.S. Avellino 1912"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q298217",
+                        "Label": "U.S. Avellino 1912"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2173
+      },
+      "Which team does Julien Cardy play for currently?": {
+            "question": "Which team does Julien Cardy play for currently?",
+            "subject": {
+                  "subject": "Q2384325",
+                  "subLabel": "Julien Cardy"
+            },
+            "text answers": [
+                  "En Avant de Guingamp"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q459148",
+                        "Label": "En Avant de Guingamp"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2183
+      },
+      "Which team does Alexis Gougeard play for currently?": {
+            "question": "Which team does Alexis Gougeard play for currently?",
+            "subject": {
+                  "subject": "Q2834518",
+                  "subLabel": "Alexis Gougeard"
+            },
+            "text answers": [
+                  "Cofidis"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q900288",
+                        "Label": "Cofidis"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2185
+      },
+      "Which team does Georges Parfait Mbida Messi play for currently?": {
+            "question": "Which team does Georges Parfait Mbida Messi play for currently?",
+            "subject": {
+                  "subject": "Q5546867",
+                  "subLabel": "Georges Parfait Mbida Messi"
+            },
+            "text answers": [
+                  "Domant FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q18352208",
+                        "Label": "Domant FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2187
+      },
+      "Which team does Mary Earps play for currently?": {
+            "question": "Which team does Mary Earps play for currently?",
+            "subject": {
+                  "subject": "Q24150891",
+                  "subLabel": "Mary Earps"
+            },
+            "text answers": [
+                  "Manchester United W.F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q54818167",
+                        "Label": "Manchester United W.F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2191
+      },
+      "Which team does Armando Navarrete play for currently?": {
+            "question": "Which team does Armando Navarrete play for currently?",
+            "subject": {
+                  "subject": "Q1769140",
+                  "subLabel": "Armando Navarrete"
+            },
+            "text answers": [
+                  "Cimarrones de Sonora FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19878740",
+                        "Label": "Cimarrones de Sonora FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2205
+      },
+      "Which team does Matteo Darmian play for currently?": {
+            "question": "Which team does Matteo Darmian play for currently?",
+            "subject": {
+                  "subject": "Q44788",
+                  "subLabel": "Matteo Darmian"
+            },
+            "text answers": [
+                  "Inter Milan"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q631",
+                        "Label": "Inter Milan"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2221
+      },
+      "Which team does Erhan Kartal play for currently?": {
+            "question": "Which team does Erhan Kartal play for currently?",
+            "subject": {
+                  "subject": "Q1350734",
+                  "subLabel": "Erhan Kartal"
+            },
+            "text answers": [
+                  "\u015eanl\u0131urfaspor",
+                  "\u015eanl\u0131urfaspor"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q388487",
+                        "Label": "\u015eanl\u0131urfaspor"
+                  },
+                  {
+                        "ID": "Q388487",
+                        "Label": "\u015eanl\u0131urfaspor"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2225
+      },
+      "Which team does Oleksandr Filippov play for currently?": {
+            "question": "Which team does Oleksandr Filippov play for currently?",
+            "subject": {
+                  "subject": "Q7086236",
+                  "subLabel": "Oleksandr Filippov"
+            },
+            "text answers": [
+                  "SC Dnipro-1",
+                  "FC Avanhard Kramatorsk"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q30964198",
+                        "Label": "SC Dnipro-1"
+                  },
+                  {
+                        "ID": "Q2078847",
+                        "Label": "FC Avanhard Kramatorsk"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2227
+      },
+      "Which team does Sr\u0111an Vujaklija play for currently?": {
+            "question": "Which team does Sr\u0111an Vujaklija play for currently?",
+            "subject": {
+                  "subject": "Q17037913",
+                  "subLabel": "Sr\u0111an Vujaklija"
+            },
+            "text answers": [
+                  "FK Borac \u010ca\u010dak"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q754310",
+                        "Label": "FK Borac \u010ca\u010dak"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2231
+      },
+      "Which team does Juvhel Tsoumou play for currently?": {
+            "question": "Which team does Juvhel Tsoumou play for currently?",
+            "subject": {
+                  "subject": "Q542784",
+                  "subLabel": "Juvhel Tsoumou"
+            },
+            "text answers": [
+                  "Congo national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q330056",
+                        "Label": "Congo national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2235
+      },
+      "Which team does Jorge Pereira da Silva play for currently?": {
+            "question": "Which team does Jorge Pereira da Silva play for currently?",
+            "subject": {
+                  "subject": "Q827215",
+                  "subLabel": "Jorge Pereira da Silva"
+            },
+            "text answers": [
+                  "Hibernians F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q936187",
+                        "Label": "Hibernians F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2243
+      },
+      "Which team does Elia Bastianoni play for currently?": {
+            "question": "Which team does Elia Bastianoni play for currently?",
+            "subject": {
+                  "subject": "Q19647586",
+                  "subLabel": "Elia Bastianoni"
+            },
+            "text answers": [
+                  "Catania F.C.",
+                  "U.S. Livorno 1915"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2018",
+                        "Label": "Catania F.C."
+                  },
+                  {
+                        "ID": "Q6767",
+                        "Label": "U.S. Livorno 1915"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2245
+      },
+      "Which team does Manuel Gavil\u00e1n play for currently?": {
+            "question": "Which team does Manuel Gavil\u00e1n play for currently?",
+            "subject": {
+                  "subject": "Q18637387",
+                  "subLabel": "Manuel Gavil\u00e1n"
+            },
+            "text answers": [
+                  "SV Ried"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q457460",
+                        "Label": "SV Ried"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2257
+      },
+      "Which team does Svenja Huth play for currently?": {
+            "question": "Which team does Svenja Huth play for currently?",
+            "subject": {
+                  "subject": "Q529199",
+                  "subLabel": "Svenja Huth"
+            },
+            "text answers": [
+                  "1. FFC Turbine Potsdam",
+                  "Germany women's national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q162450",
+                        "Label": "1. FFC Turbine Potsdam"
+                  },
+                  {
+                        "ID": "Q154408",
+                        "Label": "Germany women's national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2259
+      },
+      "Which team does Cimo R\u00f6cker play for currently?": {
+            "question": "Which team does Cimo R\u00f6cker play for currently?",
+            "subject": {
+                  "subject": "Q820166",
+                  "subLabel": "Cimo R\u00f6cker"
+            },
+            "text answers": [
+                  "SC Fortuna K\u00f6ln",
+                  "Hannover 96"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q310608",
+                        "Label": "SC Fortuna K\u00f6ln"
+                  },
+                  {
+                        "ID": "Q33748",
+                        "Label": "Hannover 96"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2267
+      },
+      "Which team does Marco Mathys play for currently?": {
+            "question": "Which team does Marco Mathys play for currently?",
+            "subject": {
+                  "subject": "Q4507710",
+                  "subLabel": "Marco Mathys"
+            },
+            "text answers": [
+                  "FC Vaduz"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q216773",
+                        "Label": "FC Vaduz"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2269
+      },
+      "Which team does Maikel van der Werff play for currently?": {
+            "question": "Which team does Maikel van der Werff play for currently?",
+            "subject": {
+                  "subject": "Q2871236",
+                  "subLabel": "Maikel van der Werff"
+            },
+            "text answers": [
+                  "FC Cincinnati"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q20855983",
+                        "Label": "FC Cincinnati"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2281
+      },
+      "Which team does Federico Santander play for currently?": {
+            "question": "Which team does Federico Santander play for currently?",
+            "subject": {
+                  "subject": "Q2448058",
+                  "subLabel": "Federico Santander"
+            },
+            "text answers": [
+                  "Bologna F.C. 1909",
+                  "Paraguay national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1893",
+                        "Label": "Bologna F.C. 1909"
+                  },
+                  {
+                        "ID": "Q172020",
+                        "Label": "Paraguay national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2293
+      },
+      "Which team does Mohammad Nosrati play for currently?": {
+            "question": "Which team does Mohammad Nosrati play for currently?",
+            "subject": {
+                  "subject": "Q528090",
+                  "subLabel": "Mohammad Nosrati"
+            },
+            "text answers": [
+                  "Gostaresh Foolad F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3055146",
+                        "Label": "Gostaresh Foolad F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2297
+      },
+      "Which team does Abderrahim Achchakir play for currently?": {
+            "question": "Which team does Abderrahim Achchakir play for currently?",
+            "subject": {
+                  "subject": "Q3661889",
+                  "subLabel": "Abderrahim Achchakir"
+            },
+            "text answers": [
+                  "Morocco national football team",
+                  "FAR Rabat"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q207337",
+                        "Label": "Morocco national football team"
+                  },
+                  {
+                        "ID": "Q1270141",
+                        "Label": "FAR Rabat"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2299
+      },
+      "Which team does Cenk Tosun play for currently?": {
+            "question": "Which team does Cenk Tosun play for currently?",
+            "subject": {
+                  "subject": "Q377432",
+                  "subLabel": "Cenk Tosun"
+            },
+            "text answers": [
+                  "Be\u015fikta\u015f J.K.",
+                  "Turkey national association football team",
+                  "Turkey A2 national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q172567",
+                        "Label": "Be\u015fikta\u015f J.K."
+                  },
+                  {
+                        "ID": "Q483856",
+                        "Label": "Turkey national association football team"
+                  },
+                  {
+                        "ID": "Q7855039",
+                        "Label": "Turkey A2 national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2303
+      },
+      "Which team does Mohamed El Morsy play for currently?": {
+            "question": "Which team does Mohamed El Morsy play for currently?",
+            "subject": {
+                  "subject": "Q10479097",
+                  "subLabel": "Mohamed El Morsy"
+            },
+            "text answers": [
+                  "Ala'ab Damanhour"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q4705078",
+                        "Label": "Ala'ab Damanhour"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2309
+      },
+      "Which team does Marcello Possenti play for currently?": {
+            "question": "Which team does Marcello Possenti play for currently?",
+            "subject": {
+                  "subject": "Q6756428",
+                  "subLabel": "Marcello Possenti"
+            },
+            "text answers": [
+                  "A.C. Reggiana 1919"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q289707",
+                        "Label": "A.C. Reggiana 1919"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2313
+      },
+      "Which team does Valentin Lemnaru play for currently?": {
+            "question": "Which team does Valentin Lemnaru play for currently?",
+            "subject": {
+                  "subject": "Q7910784",
+                  "subLabel": "Valentin Lemnaru"
+            },
+            "text answers": [
+                  "FC Arie\u0219ul Turda"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q660442",
+                        "Label": "FC Arie\u0219ul Turda"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2327
+      },
+      "Which team does Maarten van Trijp play for currently?": {
+            "question": "Which team does Maarten van Trijp play for currently?",
+            "subject": {
+                  "subject": "Q18145521",
+                  "subLabel": "Maarten van Trijp"
+            },
+            "text answers": [
+                  "Alpecin\u2013Deceuninck"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q796040",
+                        "Label": "Alpecin\u2013Deceuninck"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2333
+      },
+      "Which team does Malemngamba Meetei play for currently?": {
+            "question": "Which team does Malemngamba Meetei play for currently?",
+            "subject": {
+                  "subject": "Q6743074",
+                  "subLabel": "Malemngamba Meetei"
+            },
+            "text answers": [
+                  "Mumbai F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1339576",
+                        "Label": "Mumbai F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2485
+      },
+      "Which team does Alessandro Armenise play for currently?": {
+            "question": "Which team does Alessandro Armenise play for currently?",
+            "subject": {
+                  "subject": "Q4716291",
+                  "subLabel": "Alessandro Armenise"
+            },
+            "text answers": [
+                  "F.C. Pro Vercelli 1892"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q8455",
+                        "Label": "F.C. Pro Vercelli 1892"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2493
+      },
+      "Which team does Rafael Mea Vitali play for currently?": {
+            "question": "Which team does Rafael Mea Vitali play for currently?",
+            "subject": {
+                  "subject": "Q1459111",
+                  "subLabel": "Rafael Mea Vitali"
+            },
+            "text answers": [
+                  "Club Am\u00e9rica"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q757472",
+                        "Label": "Club Am\u00e9rica"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2499
+      },
+      "Which team does Abdel Lamanje play for currently?": {
+            "question": "Which team does Abdel Lamanje play for currently?",
+            "subject": {
+                  "subject": "Q4664755",
+                  "subLabel": "Abdel Lamanje"
+            },
+            "text answers": [
+                  "FC Atyrau"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q733451",
+                        "Label": "FC Atyrau"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2503
+      },
+      "Which team does Yuzo Minami play for currently?": {
+            "question": "Which team does Yuzo Minami play for currently?",
+            "subject": {
+                  "subject": "Q3302737",
+                  "subLabel": "Yuzo Minami"
+            },
+            "text answers": [
+                  "V-Varen Nagasaki"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3029309",
+                        "Label": "V-Varen Nagasaki"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2527
+      },
+      "Which team does Tim Sandercombe play for currently?": {
+            "question": "Which team does Tim Sandercombe play for currently?",
+            "subject": {
+                  "subject": "Q7804228",
+                  "subLabel": "Tim Sandercombe"
+            },
+            "text answers": [
+                  "Weston-super-Mare A.F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2343389",
+                        "Label": "Weston-super-Mare A.F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2533
+      },
+      "Which team does Fernando Mart\u00edn Carreras play for currently?": {
+            "question": "Which team does Fernando Mart\u00edn Carreras play for currently?",
+            "subject": {
+                  "subject": "Q581360",
+                  "subLabel": "Fernando Mart\u00edn Carreras"
+            },
+            "text answers": [
+                  "Paterna CF"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q21039269",
+                        "Label": "Paterna CF"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2555
+      },
+      "Which team does Robin de Kruijf play for currently?": {
+            "question": "Which team does Robin de Kruijf play for currently?",
+            "subject": {
+                  "subject": "Q248423",
+                  "subLabel": "Robin de Kruijf"
+            },
+            "text answers": [
+                  "Imoco Volley"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3149147",
+                        "Label": "Imoco Volley"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2561
+      },
+      "Which team does Mika\u00ebl Cantave play for currently?": {
+            "question": "Which team does Mika\u00ebl Cantave play for currently?",
+            "subject": {
+                  "subject": "Q54623962",
+                  "subLabel": "Mika\u00ebl Cantave"
+            },
+            "text answers": [
+                  "AFC Chindia T\u00e2rgovi\u0219te"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5424871",
+                        "Label": "AFC Chindia T\u00e2rgovi\u0219te"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2567
+      },
+      "Which team does Noah Syndergaard play for currently?": {
+            "question": "Which team does Noah Syndergaard play for currently?",
+            "subject": {
+                  "subject": "Q15831560",
+                  "subLabel": "Noah Syndergaard"
+            },
+            "text answers": [
+                  "New York Mets"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q692417",
+                        "Label": "New York Mets"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2605
+      },
+      "Which team does Mohamed El Monir play for currently?": {
+            "question": "Which team does Mohamed El Monir play for currently?",
+            "subject": {
+                  "subject": "Q6891157",
+                  "subLabel": "Mohamed El Monir"
+            },
+            "text answers": [
+                  "Los Angeles FC",
+                  "Libya national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q18380286",
+                        "Label": "Los Angeles FC"
+                  },
+                  {
+                        "ID": "Q276089",
+                        "Label": "Libya national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2611
+      },
+      "Which team does Juan Fernando Quintero play for currently?": {
+            "question": "Which team does Juan Fernando Quintero play for currently?",
+            "subject": {
+                  "subject": "Q2092409",
+                  "subLabel": "Juan Fernando Quintero"
+            },
+            "text answers": [
+                  "Colombia Olympic football team",
+                  "FC Porto",
+                  "Colombia national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16581702",
+                        "Label": "Colombia Olympic football team"
+                  },
+                  {
+                        "ID": "Q128446",
+                        "Label": "FC Porto"
+                  },
+                  {
+                        "ID": "Q212564",
+                        "Label": "Colombia national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2615
+      },
+      "Which team does Bruno Perone play for currently?": {
+            "question": "Which team does Bruno Perone play for currently?",
+            "subject": {
+                  "subject": "Q2636806",
+                  "subLabel": "Bruno Perone"
+            },
+            "text answers": [
+                  "Wilmington Hammerheads FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q201675",
+                        "Label": "Wilmington Hammerheads FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2627
+      },
+      "Which team does Neil Danns play for currently?": {
+            "question": "Which team does Neil Danns play for currently?",
+            "subject": {
+                  "subject": "Q3874292",
+                  "subLabel": "Neil Danns"
+            },
+            "text answers": [
+                  "Guyana national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q330125",
+                        "Label": "Guyana national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2629
+      },
+      "Which team does Andr\u00e9 Andr\u00e9 play for currently?": {
+            "question": "Which team does Andr\u00e9 Andr\u00e9 play for currently?",
+            "subject": {
+                  "subject": "Q4759899",
+                  "subLabel": "Andr\u00e9 Andr\u00e9"
+            },
+            "text answers": [
+                  "FC Porto",
+                  "Portugal national association football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q128446",
+                        "Label": "FC Porto"
+                  },
+                  {
+                        "ID": "Q267245",
+                        "Label": "Portugal national association football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2639
+      },
+      "Which team does Marko Memedovi\u0107 play for currently?": {
+            "question": "Which team does Marko Memedovi\u0107 play for currently?",
+            "subject": {
+                  "subject": "Q6771186",
+                  "subLabel": "Marko Memedovi\u0107"
+            },
+            "text answers": [
+                  "FK Sloga Petrovac na Mlavi"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q9257379",
+                        "Label": "FK Sloga Petrovac na Mlavi"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2665
+      },
+      "Which team does Lukas Grozurek play for currently?": {
+            "question": "Which team does Lukas Grozurek play for currently?",
+            "subject": {
+                  "subject": "Q1876896",
+                  "subLabel": "Lukas Grozurek"
+            },
+            "text answers": [
+                  "FC Admira Wacker M\u00f6dling"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q698702",
+                        "Label": "FC Admira Wacker M\u00f6dling"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2673
+      },
+      "Which team does Alessandro Piacenti play for currently?": {
+            "question": "Which team does Alessandro Piacenti play for currently?",
+            "subject": {
+                  "subject": "Q19667244",
+                  "subLabel": "Alessandro Piacenti"
+            },
+            "text answers": [
+                  "A.C. Perugia Calcio"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16344",
+                        "Label": "A.C. Perugia Calcio"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2675
+      },
+      "Which team does Djamel Boua\u00efcha play for currently?": {
+            "question": "Which team does Djamel Boua\u00efcha play for currently?",
+            "subject": {
+                  "subject": "Q5285217",
+                  "subLabel": "Djamel Boua\u00efcha"
+            },
+            "text answers": [
+                  "RC Arba\u00e2"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q3415112",
+                        "Label": "RC Arba\u00e2"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2695
+      },
+      "Which team does Cecilia Salvai play for currently?": {
+            "question": "Which team does Cecilia Salvai play for currently?",
+            "subject": {
+                  "subject": "Q5056459",
+                  "subLabel": "Cecilia Salvai"
+            },
+            "text answers": [
+                  "Juventus F.C. Women",
+                  "Italy women's national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q17621653",
+                        "Label": "Juventus F.C. Women"
+                  },
+                  {
+                        "ID": "Q775805",
+                        "Label": "Italy women's national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2703
+      },
+      "Which team does Marco Piccinni play for currently?": {
+            "question": "Which team does Marco Piccinni play for currently?",
+            "subject": {
+                  "subject": "Q6757662",
+                  "subLabel": "Marco Piccinni"
+            },
+            "text answers": [
+                  "A.S.D. Fidelis Andria 1928"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q287695",
+                        "Label": "A.S.D. Fidelis Andria 1928"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2709
+      },
+      "Which team does Modeste M'bami play for currently?": {
+            "question": "Which team does Modeste M'bami play for currently?",
+            "subject": {
+                  "subject": "Q443684",
+                  "subLabel": "Modeste M'bami"
+            },
+            "text answers": [
+                  "Le Havre AC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q328658",
+                        "Label": "Le Havre AC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2719
+      },
+      "Which team does Mario Mutsch play for currently?": {
+            "question": "Which team does Mario Mutsch play for currently?",
+            "subject": {
+                  "subject": "Q518959",
+                  "subLabel": "Mario Mutsch"
+            },
+            "text answers": [
+                  "FC Progr\u00e8s Niederkorn",
+                  "Luxembourg national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q933046",
+                        "Label": "FC Progr\u00e8s Niederkorn"
+                  },
+                  {
+                        "ID": "Q184266",
+                        "Label": "Luxembourg national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2721
+      },
+      "Which team does Walid Azaro play for currently?": {
+            "question": "Which team does Walid Azaro play for currently?",
+            "subject": {
+                  "subject": "Q27881478",
+                  "subLabel": "Walid Azaro"
+            },
+            "text answers": [
+                  "Ajman Club",
+                  "Morocco national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q378368",
+                        "Label": "Ajman Club"
+                  },
+                  {
+                        "ID": "Q207337",
+                        "Label": "Morocco national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2727
+      },
+      "Which team does Junior Sandoval play for currently?": {
+            "question": "Which team does Junior Sandoval play for currently?",
+            "subject": {
+                  "subject": "Q6313447",
+                  "subLabel": "Junior Sandoval"
+            },
+            "text answers": [
+                  "Jacksonville Armada FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16842120",
+                        "Label": "Jacksonville Armada FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2743
+      },
+      "Which team does Jonas Hofmann play for currently?": {
+            "question": "Which team does Jonas Hofmann play for currently?",
+            "subject": {
+                  "subject": "Q822781",
+                  "subLabel": "Jonas Hofmann"
+            },
+            "text answers": [
+                  "Bayer 04 Leverkusen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q104761",
+                        "Label": "Bayer 04 Leverkusen"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2745
+      },
+      "Which team does Sebastian Freis play for currently?": {
+            "question": "Which team does Sebastian Freis play for currently?",
+            "subject": {
+                  "subject": "Q128877",
+                  "subLabel": "Sebastian Freis"
+            },
+            "text answers": [
+                  "SpVgg Greuther F\u00fcrth"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q153539",
+                        "Label": "SpVgg Greuther F\u00fcrth"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2753
+      },
+      "Which team does Katarina Kolar play for currently?": {
+            "question": "Which team does Katarina Kolar play for currently?",
+            "subject": {
+                  "subject": "Q6375158",
+                  "subLabel": "Katarina Kolar"
+            },
+            "text answers": [
+                  "BV Cloppenburg",
+                  "BV Cloppenburg",
+                  "Croatia women's national football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q537325",
+                        "Label": "BV Cloppenburg"
+                  },
+                  {
+                        "ID": "Q797165",
+                        "Label": "BV Cloppenburg"
+                  },
+                  {
+                        "ID": "Q1055369",
+                        "Label": "Croatia women's national football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2779
+      },
+      "Which team does Marco Modolo play for currently?": {
+            "question": "Which team does Marco Modolo play for currently?",
+            "subject": {
+                  "subject": "Q16232786",
+                  "subLabel": "Marco Modolo"
+            },
+            "text answers": [
+                  "ND Gorica",
+                  "Parma Calcio 1913"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q637514",
+                        "Label": "ND Gorica"
+                  },
+                  {
+                        "ID": "Q2693",
+                        "Label": "Parma Calcio 1913"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2795
+      },
+      "Which team does Hugo Pina play for currently?": {
+            "question": "Which team does Hugo Pina play for currently?",
+            "subject": {
+                  "subject": "Q16734548",
+                  "subLabel": "Hugo Pina"
+            },
+            "text answers": [
+                  "U.D. Leiria"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q211401",
+                        "Label": "U.D. Leiria"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2819
+      },
+      "Which team does Ca\u00edn Fara play for currently?": {
+            "question": "Which team does Ca\u00edn Fara play for currently?",
+            "subject": {
+                  "subject": "Q57304431",
+                  "subLabel": "Ca\u00edn Fara"
+            },
+            "text answers": [
+                  "Ferro Carril Oeste"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q910444",
+                        "Label": "Ferro Carril Oeste"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2825
+      },
+      "Which team does Marco Verratti play for currently?": {
+            "question": "Which team does Marco Verratti play for currently?",
+            "subject": {
+                  "subject": "Q337623",
+                  "subLabel": "Marco Verratti"
+            },
+            "text answers": [
+                  "Al-Arabi SC",
+                  "Italy national association football team"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q283760",
+                        "Label": "Al-Arabi SC"
+                  },
+                  {
+                        "ID": "Q676899",
+                        "Label": "Italy national association football team"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2829
+      },
+      "Which team does Dejan Mezga play for currently?": {
+            "question": "Which team does Dejan Mezga play for currently?",
+            "subject": {
+                  "subject": "Q3704835",
+                  "subLabel": "Dejan Mezga"
+            },
+            "text answers": [
+                  "Apollon Limassol FC"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q428047",
+                        "Label": "Apollon Limassol FC"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2849
+      },
+      "Which team does Naruphol Ar-Romsawa play for currently?": {
+            "question": "Which team does Naruphol Ar-Romsawa play for currently?",
+            "subject": {
+                  "subject": "Q3870457",
+                  "subLabel": "Naruphol Ar-Romsawa"
+            },
+            "text answers": [
+                  "Chonburi F.C.",
+                  "Buriram United F.C."
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q1387004",
+                        "Label": "Chonburi F.C."
+                  },
+                  {
+                        "ID": "Q252065",
+                        "Label": "Buriram United F.C."
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2864
+      },
+      "Which team does Domenico Pozzovivo play for currently?": {
+            "question": "Which team does Domenico Pozzovivo play for currently?",
+            "subject": {
+                  "subject": "Q447932",
+                  "subLabel": "Domenico Pozzovivo"
+            },
+            "text answers": [
+                  "VF Group-Bardiani CSF-Faizan\u00e9"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q721230",
+                        "Label": "VF Group-Bardiani CSF-Faizan\u00e9"
+                  }
+            ],
+            "relations": [
+                  "P54"
+            ],
+            "template": "Which team does {subject} play for currently?",
+            "uniq_id": 2871
+      }
+}

@@ -1,0 +1,423 @@
+{
+      "Q2280": {
+            "label": "Minsk",
+            "relation": "P6",
+            "text answers": [
+                  "Uladzimir Kukharau"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56245210",
+                        "Label": "Uladzimir Kukharau"
+                  }
+            ]
+      },
+      "Q1045": {
+            "label": "Somalia",
+            "relation": "P6",
+            "text answers": [
+                  "Mohamed Hussein Roble"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q99605101",
+                        "Label": "Mohamed Hussein Roble"
+                  }
+            ]
+      },
+      "Q157835": {
+            "label": "Zaporizhzhia",
+            "relation": "P6",
+            "text answers": [
+                  "Rehina Kharchenko"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q125581437",
+                        "Label": "Rehina Kharchenko"
+                  }
+            ]
+      },
+      "Q9105560": {
+            "label": "Taipei City Government",
+            "relation": "P6",
+            "text answers": [
+                  "Ko Wen-je"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q18113714",
+                        "Label": "Ko Wen-je"
+                  }
+            ]
+      },
+      "Q57081": {
+            "label": "Enebakk",
+            "relation": "P6",
+            "text answers": [
+                  "Hans Kristian Solberg"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q95976977",
+                        "Label": "Hans Kristian Solberg"
+                  }
+            ]
+      },
+      "Q1948": {
+            "label": "Manitoba",
+            "relation": "P6",
+            "text answers": [
+                  "Heather Stefanson"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5694126",
+                        "Label": "Heather Stefanson"
+                  }
+            ]
+      },
+      "Q5091598": {
+            "label": "V\u0103c\u0103reni",
+            "relation": "P6",
+            "text answers": [
+                  "Costel Neagu"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q104502814",
+                        "Label": "Costel Neagu"
+                  }
+            ]
+      },
+      "Q1633909": {
+            "label": "Usurbil",
+            "relation": "P6",
+            "text answers": [
+                  "Agurtzane Solabarrieta"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q88964433",
+                        "Label": "Agurtzane Solabarrieta"
+                  }
+            ]
+      },
+      "Q232": {
+            "label": "Kazakhstan",
+            "relation": "P6",
+            "text answers": [
+                  "\u00c4lihan Smaiylov"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56825894",
+                        "Label": "\u00c4lihan Smaiylov"
+                  }
+            ]
+      },
+      "Q6346": {
+            "label": "Indianapolis",
+            "relation": "P6",
+            "text answers": [
+                  "Joe Hogsett"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q6210362",
+                        "Label": "Joe Hogsett"
+                  }
+            ]
+      },
+      "Q1479": {
+            "label": "Bordeaux",
+            "relation": "P6",
+            "text answers": [
+                  "Pierre Hurmic"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q55599019",
+                        "Label": "Pierre Hurmic"
+                  }
+            ]
+      },
+      "Q2807": {
+            "label": "Madrid",
+            "relation": "P6",
+            "text answers": [
+                  "Jos\u00e9 Luis Mart\u00ednez-Almeida"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q29636954",
+                        "Label": "Jos\u00e9 Luis Mart\u00ednez-Almeida"
+                  }
+            ]
+      },
+      "Q1989342": {
+            "label": "Massalfassar",
+            "relation": "P6",
+            "text answers": [
+                  "\u00c1lvaro Monta\u00f1\u00e9s Fontestad"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q97324516",
+                        "Label": "\u00c1lvaro Monta\u00f1\u00e9s Fontestad"
+                  }
+            ]
+      },
+      "Q912": {
+            "label": "Mali",
+            "relation": "P6",
+            "text answers": [
+                  "Abdoulaye Ma\u00efga"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q113577661",
+                        "Label": "Abdoulaye Ma\u00efga"
+                  }
+            ]
+      },
+      "Q965": {
+            "label": "Burkina Faso",
+            "relation": "P6",
+            "text answers": [
+                  "Apollinaire Joachim Ky\u00e9lem de Tamb\u00e8la"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q114835874",
+                        "Label": "Apollinaire Joachim Ky\u00e9lem de Tamb\u00e8la"
+                  }
+            ]
+      },
+      "Q219": {
+            "label": "Bulgaria",
+            "relation": "P6",
+            "text answers": [
+                  "Nikolay Denkov",
+                  "Kiril Petkov"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q28536878",
+                        "Label": "Nikolay Denkov"
+                  },
+                  {
+                        "ID": "Q106928258",
+                        "Label": "Kiril Petkov"
+                  }
+            ]
+      },
+      "Q45797": {
+            "label": "Dunkirk",
+            "relation": "P6",
+            "text answers": [
+                  "Patrice Vergriete"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16669152",
+                        "Label": "Patrice Vergriete"
+                  }
+            ]
+      },
+      "Q3324151": {
+            "label": "Morlaix Communaut\u00e9",
+            "relation": "P6",
+            "text answers": [
+                  "Jean-Paul Vermot"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q63764969",
+                        "Label": "Jean-Paul Vermot"
+                  }
+            ]
+      },
+      "Q7932": {
+            "label": "Darmstadt Government Region",
+            "relation": "P6",
+            "text answers": [
+                  "Brigitte Lindscheid"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16739221",
+                        "Label": "Brigitte Lindscheid"
+                  }
+            ]
+      },
+      "Q505601": {
+            "label": "Wassenaar",
+            "relation": "P6",
+            "text answers": [
+                  "Leendert de Lange"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19839084",
+                        "Label": "Leendert de Lange"
+                  }
+            ]
+      },
+      "Q48732": {
+            "label": "Mer\u00e5ker",
+            "relation": "P6",
+            "text answers": [
+                  "Kjersti Kjenes"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q95984687",
+                        "Label": "Kjersti Kjenes"
+                  }
+            ]
+      },
+      "Q485253": {
+            "label": "Stord",
+            "relation": "P6",
+            "text answers": [
+                  "Gaute Straume Epland"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q65658554",
+                        "Label": "Gaute Straume Epland"
+                  }
+            ]
+      },
+      "Q145845": {
+            "label": "Doetinchem",
+            "relation": "P6",
+            "text answers": [
+                  "Annemieke Traag"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19578460",
+                        "Label": "Annemieke Traag"
+                  }
+            ]
+      },
+      "Q113697": {
+            "label": "M\u00e5s\u00f8y",
+            "relation": "P6",
+            "text answers": [
+                  "Bernth R. Sjursen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q89974729",
+                        "Label": "Bernth R. Sjursen"
+                  }
+            ]
+      },
+      "Q249904": {
+            "label": "Taitung County",
+            "relation": "P6",
+            "text answers": [
+                  "Rao Ching-ling"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16260582",
+                        "Label": "Rao Ching-ling"
+                  }
+            ]
+      },
+      "Q191772": {
+            "label": "Mende",
+            "relation": "P6",
+            "text answers": [
+                  "Alain Bertrand"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2829565",
+                        "Label": "Alain Bertrand"
+                  }
+            ]
+      },
+      "Q11445": {
+            "label": "Malang",
+            "relation": "P6",
+            "text answers": [
+                  "Sutiaji"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56391433",
+                        "Label": "Sutiaji"
+                  }
+            ]
+      },
+      "Q20934": {
+            "label": "Incheon",
+            "relation": "P6",
+            "text answers": [
+                  "Park Nam-choon"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16081369",
+                        "Label": "Park Nam-choon"
+                  }
+            ]
+      },
+      "Q484043": {
+            "label": "Hadsel",
+            "relation": "P6",
+            "text answers": [
+                  "Aina Johanne Nilsen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q100823675",
+                        "Label": "Aina Johanne Nilsen"
+                  }
+            ]
+      },
+      "Q503153": {
+            "label": "Stevns Municipality",
+            "relation": "P6",
+            "text answers": [
+                  "Henning Urban Dam"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q110359527",
+                        "Label": "Henning Urban Dam"
+                  }
+            ]
+      },
+      "Q249870": {
+            "label": "Kinmen",
+            "relation": "P6",
+            "text answers": [
+                  "Yang Cheng-wu"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q22774355",
+                        "Label": "Yang Cheng-wu"
+                  }
+            ]
+      },
+      "Q187826": {
+            "label": "M\u00f3stoles",
+            "relation": "P6",
+            "text answers": [
+                  "Noelia Posse G\u00f3mez"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q57309885",
+                        "Label": "Noelia Posse G\u00f3mez"
+                  }
+            ]
+      }
+}

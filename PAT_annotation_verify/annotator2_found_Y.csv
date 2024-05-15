@@ -1,0 +1,418 @@
+,Questions,Reference Answers,Annotation,Added the right names if they were wrong or additional names if they were missed out or any added comments. ,"In this task, you have verify if the reference answers are correct with respect to the current world knowledge. If your answer matches atleast one of the reference answers, then it is correct. 
+Please use Wikipedia (infoboxes contain most answers) primarily for finding the answers. 
+If you don't find it on Wikipedia, you may use any news source or basic google search.",question_keys
+0,Who is the head of the state of Ukraine currently?,Volodymyr Zelenskyy,Y,,,Who is the head of the state of Ukraine currently?
+1,Who is the head of the state of Greece currently?,Katerina Sakellaropoulou,Y,,,Who is the head of the state of Greece currently?
+2,Who is the head of the state of Israel currently?,Israel Herzog,Y,Isaac Herzog,,Who is the head of the state of Israel currently?
+3,Who is the head of the state of Estonia currently?,Alar Karis,Y,,,Who is the head of the state of Estonia currently?
+4,Who is the head of the state of Chile currently?,Gabriel Boric,Y,,,Who is the head of the state of Chile currently?
+5,Who is the head of the state of Indonesia currently?,Joko Widodo,Y,,,Who is the head of the state of Indonesia currently?
+6,Who is the head of the state of Croatia currently?,Zoran Milanovic,Y,,,Who is the head of the state of Croatia currently?
+7,Who is the head of the state of Portugal currently?,Marcelo Rebelo de Sousa,Y,,,Who is the head of the state of Portugal currently?
+9,Who is the head of the state of Guyana currently?,Irfaan Ali,Y,,,Who is the head of the state of Guyana currently?
+11,Who is the head of the state of North Korea currently?,Kim Jong-un,Y,,,Who is the head of the state of North Korea currently?
+12,Who is the head of the state of Kyrgyzstan currently?,Sadyr Zhaparov,Y,,,Who is the head of the state of Kyrgyzstan currently?
+13,Who is the head of the state of Slovenia currently?,Natasa Pirc Musar,Y,,,Who is the head of the state of Slovenia currently?
+14,Who is the head of the state of Ethiopia currently?,Sahle-Work Zewde,Y,,,Who is the head of the state of Ethiopia currently?
+16,Who is the head of the state of Georgia currently?,Salome Zourabichvili,Y,,,Who is the head of the state of Georgia currently?
+17,Who is the head of the state of Lithuania currently?,Gitanas Nauseda,Y,,,Who is the head of the state of Lithuania currently?
+18,Who is the head of the state of Taiwan currently?,Tsai Ing-wen,Y,,,Who is the head of the state of Taiwan currently?
+19,Who is the head of the state of Kosovo currently?,Vjosa Osmani,Y,,,Who is the head of the state of Kosovo currently?
+20,Who is the head of the state of Dominican Republic currently?,Luis Abinader,Y,,,Who is the head of the state of Dominican Republic currently?
+21,Who is the head of the state of Republic of Artsakh currently?,"Samvel Shahramanyan, Arayik Harutyunyan",Y,,,Who is the head of the state of Republic of Artsakh currently?
+22,Who is the head of the state of Austria currently?,Alexander Van der Bellen,Y,,,Who is the head of the state of Austria currently?
+23,Who is the head of the state of Slovakia currently?,Zuzana Caputova,Y,,,Who is the head of the state of Slovakia currently?
+25,Who is the head of the government of Saint-Saulve currently?,Yves Dusart,Y,,,Who is the head of the government of Saint-Saulve currently?
+26,Who is the head of the government of Enschede currently?,Roelof Bleker,Y,,,Who is the head of the government of Enschede currently?
+27,Who is the head of the government of Russelsheim am Main currently?,Udo Bausch,Y,,,Who is the head of the government of Russelsheim am Main currently?
+28,Who is the head of the government of la Garrotxa currently?,Santi Reixach Garriga,Y,,,Who is the head of the government of la Garrotxa currently?
+29,Who is the head of the government of Alaquas currently?,Antonio Saura Martin,Y,,,Who is the head of the government of Alaquas currently?
+30,Who is the head of the government of Dordrecht currently?,Wouter Kolff,Y,,,Who is the head of the government of Dordrecht currently?
+31,Who is the head of the government of Moldova currently?,Dorin Recean,Y,Prime Minister is Dorin Recean & President is Maia Sandu,,Who is the head of the government of Moldova currently?
+32,Who is the head of the government of Saudi Arabia currently?,Salman bin Abdulaziz Al Saud,Y,King of Saudi Arabia is Salman bin Abdulaziz Al Saud & Mohammed bin Salman Al Saud  is the ruler,,Who is the head of the government of Saudi Arabia currently?
+33,Who is the head of the government of Pennsylvania currently?,Josh Shapiro,Y,,,Who is the head of the government of Pennsylvania currently?
+34,Who is the head of the government of Douai currently?,Frederic Chereau,Y,,,Who is the head of the government of Douai currently?
+35,Who is the head of the government of Gentofte Municipality currently?,Michael Fenger,Y,,,Who is the head of the government of Gentofte Municipality currently?
+36,Who is the head of the government of Frederiksberg Municipality currently?,Michael Vindfeldt,Y,,,Who is the head of the government of Frederiksberg Municipality currently?
+37,Who is the head of the government of Wilmington currently?,Mike Purzycki,Y,,,Who is the head of the government of Wilmington currently?
+38,Who is the head of the government of India currently?,Narendra Modi,Y,,,Who is the head of the government of India currently?
+39,Who is the head of the government of Catalonia currently?,Pere Aragones,Y,,,Who is the head of the government of Catalonia currently?
+40,Who is the head of the government of Sighisoara currently?,Ioan-Iulian Sirbu,Y,,,Who is the head of the government of Sighisoara currently?
+41,Who is the head of the government of Rennes currently?,Nathalie Appere,Y,,,Who is the head of the government of Rennes currently?
+42,Who is the head of the government of Slovenia currently?,Robert Golob,Y,,,Who is the head of the government of Slovenia currently?
+43,Who is the head of the government of Aniche currently?,Xavier Bartoszek,Y,,,Who is the head of the government of Aniche currently?
+44,Who is the head of the government of Bourges currently?,Yann Galut,Y,,,Who is the head of the government of Bourges currently?
+46,Who is the head of the government of Amstelveen currently?,Tjapko Poppens,Y,,,Who is the head of the government of Amstelveen currently?
+47,Who is the head of the government of Ouder-Amstel currently?,Joyce Langenacker,Y,,,Who is the head of the government of Ouder-Amstel currently?
+48,Who is the head of the government of Grodersby currently?,Helmut Andresen,Y,,,Who is the head of the government of Grodersby currently?
+49,Who is the head of the government of Kristiansand currently?,Mathias Bernander,Y,,,Who is the head of the government of Kristiansand currently?
+50,Who is the head of the government of Leudelange currently?,Diane Feipel,NF,,,Who is the head of the government of Leudelange currently?
+51,Who is the head of the government of Berlin currently?,Kai Wegner,Y,,,Who is the head of the government of Berlin currently?
+52,Who is the head of the government of Vadso currently?,Wenche Pedersen,Y,,,Who is the head of the government of Vadso currently?
+53,Who is the head of the government of Bujoru currently?,Ginel Sorin Avram,NF,,,Who is the head of the government of Bujoru currently?
+54,Who is the head of the government of Hesse currently?,Boris Rhein,Y,,,Who is the head of the government of Hesse currently?
+55,Who is the head of the government of Manila currently?,Honey Lacuna,Y,,,Who is the head of the government of Manila currently?
+56,Who is the head of the government of Montalban de Cordoba currently?,Miguel Ruz Salces,Y,,,Who is the head of the government of Montalban de Cordoba currently?
+57,Who is the head of the government of Schleswig-Holstein currently?,Daniel Gunther,Y,Second Cabinet of Daniel Günther ,,Who is the head of the government of Schleswig-Holstein currently?
+58,Who is the head of the government of Saint-Martin-de-Crau currently?,Christophe Laufray,Y,,,Who is the head of the government of Saint-Martin-de-Crau currently?
+59,Who is the head of the government of Saint-Etienne Metropole currently?,Gael Perdriau,Y,,,Who is the head of the government of Saint-Etienne Metropole currently?
+60,Who is the head of the government of Krasnoyarsk currently?,Sergey Yeryomin,Y,,,Who is the head of the government of Krasnoyarsk currently?
+62,Who is the head of the government of Saint Petersburg currently?,Alexander Beglov,Y,,,Who is the head of the government of Saint Petersburg currently?
+64,Who is the head of the government of Chislaz currently?,George Dorin Bezi,NF,,,Who is the head of the government of Chislaz currently?
+66,Who is the head of the government of West Maas en Waal currently?,Vincent van Neerbos,Y,,,Who is the head of the government of West Maas en Waal currently?
+67,Who is the head of the government of Atlanta currently?,Andre Dickens,Y,,,Who is the head of the government of Atlanta currently?
+68,Who is the head of the government of Tasnad currently?,Adrian-Danut Farcau,Y,,,Who is the head of the government of Tasnad currently?
+69,Who is the head of the government of Cologne currently?,Henriette Reker,Y,,,Who is the head of the government of Cologne currently?
+70,Who is the head of the government of Glostrup Municipality currently?,Kasper Damsgaard,Y,,,Who is the head of the government of Glostrup Municipality currently?
+71,Who is the head of the government of Luizi-Calugara currently?,Edmond-Leonard David,NF,,,Who is the head of the government of Luizi-Calugara currently?
+72,Who is the head of the government of Kernen im Remstal currently?,Benedikt Paulowitsch,NF,,,Who is the head of the government of Kernen im Remstal currently?
+74,Who is the head of the government of Asturias currently?,Adrian Barbon Rodriguez,Y,,,Who is the head of the government of Asturias currently?
+76,Who is the head of the government of Roskilde Municipality currently?,Tomas Breddam,Y,Thomas Breddam,,Who is the head of the government of Roskilde Municipality currently?
+78,Who is the head of the government of Noyelles-les-Vermelles currently?,Bruno Trache,Y,,,Who is the head of the government of Noyelles-les-Vermelles currently?
+81,Who is the head of the government of Vladivostok currently?,Konstantin Shestakov,Y,,,Who is the head of the government of Vladivostok currently?
+83,Who is the head of the government of Hsinchu County currently?,Yang Wen-ke,Y,,,Who is the head of the government of Hsinchu County currently?
+84,Who is the head of the government of Chailly-sur-Armancon currently?,Bernard Chalon,Y,,,Who is the head of the government of Chailly-sur-Armancon currently?
+85,Who is the head of the government of Avesnes-le-Sec currently?,"Claude Regniez, Alphonse Bury",Y,,,Who is the head of the government of Avesnes-le-Sec currently?
+86,Who is the head of the government of Botosani currently?,Cosmin-Ionut Andrei,Y,,,Who is the head of the government of Botosani currently?
+87,Who is the head of the government of Dinard currently?,Arnaud Salmon,Y,,,Who is the head of the government of Dinard currently?
+88,Who is the head of the government of Mumbai currently?,Iqbal Singh Chahal,Y,,,Who is the head of the government of Mumbai currently?
+89,Who is the head of the government of Pomi currently?,Cosmin-Ionel Krisan,NF,,,Who is the head of the government of Pomi currently?
+91,Who is the head of the government of Navarre currently?,Maria Chivite,Y,,,Who is the head of the government of Navarre currently?
+93,Who is the head of the government of Nicseni currently?,Victor-Claudiu Bulboaca,NF,,,Who is the head of the government of Nicseni currently?
+94,Who is the head of the government of Villers-Plouich currently?,Pascal Bruniaux,Y,,,Who is the head of the government of Villers-Plouich currently?
+95,Who is the head of the government of Erftstadt currently?,Carolin Weitzel,Y,,,Who is the head of the government of Erftstadt currently?
+96,Who is the head of the government of Wiesbaden currently?,Gert-Uwe Mende,Y,,,Who is the head of the government of Wiesbaden currently?
+97,Who is the head of the government of Mauritania currently?,Mohamed Ould Bilal,Y,,,Who is the head of the government of Mauritania currently?
+98,Who is the head of the government of Eugene currently?,Lucy Vinis,Y,,,Who is the head of the government of Eugene currently?
+99,Who is the head of the government of Heilongjiang currently?,Liang Huiling,Y,,,Who is the head of the government of Heilongjiang currently?
+100,Who is the head of the government of Kopstal currently?,Thierry Schuman,NF,,,Who is the head of the government of Kopstal currently?
+101,Who is the head of the government of The Hague currently?,Jan van Zanen,Y,,,Who is the head of the government of The Hague currently?
+102,Who is the head of the government of Bahna currently?,Gheorghe Patrascu,Y,,,Who is the head of the government of Bahna currently?
+103,Who is the head of the government of Norfolk currently?,Kenneth Cooper Alexander,Y,,,Who is the head of the government of Norfolk currently?
+104,Who is the head of the government of Graz currently?,Elke Kahr,Y,,,Who is the head of the government of Graz currently?
+105,Who is the head of the government of Nur-Sultan currently?,Altai Kolginov,Y,,,Who is the head of the government of Nur-Sultan currently?
+106,Who is the head of the government of Pardubice Region currently?,Martin Netolicky,Y,,,Who is the head of the government of Pardubice Region currently?
+107,Who is the head of the government of Istanbul currently?,Ekrem Imamoglu,N ,,,Who is the head of the government of Istanbul currently?
+109,Who is the head of the government of Le Bourget currently?,Jean-Baptiste Borsali,Y,,,Who is the head of the government of Le Bourget currently?
+110,Who is the head of the government of Bruay-la-Buissiere currently?,Ludovic Pajot,Y,,,Who is the head of the government of Bruay-la-Buissiere currently?
+112,Who is the head of the government of Gratangen currently?,Anita Karlsen,Y,,,Who is the head of the government of Gratangen currently?
+113,Who is the head of the government of Ferin currently?,Michel Pederencino,Y,,,Who is the head of the government of Ferin currently?
+114,Who is the head of the government of Sudwest-Fryslan currently?,Jannewietske de Vries,Y,,,Who is the head of the government of Sudwest-Fryslan currently?
+115,Who is the head of the government of Mykolaiv Oblast currently?,Vitalii Kim,Y,,,Who is the head of the government of Mykolaiv Oblast currently?
+116,Who is the head of the government of Helsingor Municipality currently?,Benedikte Kiaer,Y,,,Who is the head of the government of Helsingor Municipality currently?
+118,Who is the head of the government of Tingvoll currently?,Ingrid Waagen,Y,,,Who is the head of the government of Tingvoll currently?
+121,Who is the head of the government of Kosovo currently?,Albin Kurti,Y,,,Who is the head of the government of Kosovo currently?
+122,Who is the head of the government of Iasi currently?,Mihai Chirica,Y,,,Who is the head of the government of Iasi currently?
+123,Who is the head of the government of Lyngby-Taarbaek Municipality currently?,Sofia Osmani,Y,,,Who is the head of the government of Lyngby-Taarbaek Municipality currently?
+125,Who is the head of the government of Weilheim-Schongau currently?,Andrea Jochner-Weiss,Y,,,Who is the head of the government of Weilheim-Schongau currently?
+128,Who is the head of the government of Primorsky Krai currently?,Oleg Kozhemyako,Y,,,Who is the head of the government of Primorsky Krai currently?
+129,Who is the head of the government of Boise currently?,Lauren McLean,Y,,,Who is the head of the government of Boise currently?
+130,Who is the head of the government of Heilbronn currently?,Harry Mergel,Y,,,Who is the head of the government of Heilbronn currently?
+131,Who is the head of the government of Sector 1 currently?,Clotilde Armand,Y,,,Who is the head of the government of Sector 1 currently?
+132,Who is the head of the government of Mexico currently?,Andres Manuel Lopez Obrador,Y,,,Who is the head of the government of Mexico currently?
+133,Who is the head of the government of Meudon currently?,Denis Larghero,Y,,,Who is the head of the government of Meudon currently?
+134,Who is the head of the government of Community of Madrid currently?,Isabel Diaz Ayuso,Y,,,Who is the head of the government of Community of Madrid currently?
+135,Who is the head of the government of Hradec Kralove currently?,Pavlina Springerova,Y,,,Who is the head of the government of Hradec Kralove currently?
+137,Who is the head of the government of Vestre Slidre currently?,Haldor Odegard,Y,,,Who is the head of the government of Vestre Slidre currently?
+138,Who is the head of the government of Almaty currently?,Erbolat Dosaev,Y,,,Who is the head of the government of Almaty currently?
+139,Who is the head of the government of Ukraine currently?,Denys Shmyhal,Y,President: Volodymyr Zelenskyy,,Who is the head of the government of Ukraine currently?
+140,Who is the head of the government of Vesthimmerland Municipality currently?,Per Bach Laursen,Y,,,Who is the head of the government of Vesthimmerland Municipality currently?
+141,Who is the head of the government of France currently?,Gabriel Attal,Y,President: 	Emmanuel Macron,,Who is the head of the government of France currently?
+142,Who is the head of the government of Freiburg im Breisgau currently?,Martin Horn,Y,,,Who is the head of the government of Freiburg im Breisgau currently?
+143,Who is the head of the government of Sector 6 currently?,Ciprian Ciucu,Y,,,Who is the head of the government of Sector 6 currently?
+144,Who is the head of the government of Sector 5 currently?,Cristian Popescu Piedone,Y,,,Who is the head of the government of Sector 5 currently?
+145,Who is the head of the government of Burundi currently?,Gervais Ndirakobuca,Y,President: Évariste Ndayishimiye,,Who is the head of the government of Burundi currently?
+146,Who is the head of the government of Balti currently?,"Aleksandr Petkov, Nikolay Grigorishin",Y,,,Who is the head of the government of Balti currently?
+147,Who is the head of the government of Lyon currently?,Gregory Doucet,Y,,,Who is the head of the government of Lyon currently?
+149,Who is the head of the government of Aachen currently?,Sibylle Keupen,Y,,,Who is the head of the government of Aachen currently?
+150,Who is the head of the government of Iran currently?,Ebrahim Raisi,Y,,,Who is the head of the government of Iran currently?
+151,Who is the head of the government of Modum currently?,Sunni Grondahl Aamodt,Y,,,Who is the head of the government of Modum currently?
+152,Who is the head of the government of Bat Yam currently?,Tzvika Brot,Y,,,Who is the head of the government of Bat Yam currently?
+154,Who is the head of the government of Castile and Leon currently?,Alfonso Fernando Fernandez Manueco,Y,,,Who is the head of the government of Castile and Leon currently?
+155,Who is the head of the government of Saint-Etienne currently?,Gael Perdriau,Y,,,Who is the head of the government of Saint-Etienne currently?
+156,Who is the head of the government of Tibanesti currently?,Neculai Munteanu,NF,,,Who is the head of the government of Tibanesti currently?
+158,Who is the head of the government of Lourches currently?,Dalila Duwez-Guesmia,Y,,,Who is the head of the government of Lourches currently?
+159,Who is the head of the government of Langeland Municipality currently?,Tonni Hansen,Y,,,Who is the head of the government of Langeland Municipality currently?
+161,Who is the head of the government of Saint-Brieuc Armor Agglomeration currently?,Ronan Kerdraon,NF,,,Who is the head of the government of Saint-Brieuc Armor Agglomeration currently?
+162,Who is the head of the government of Arleux currently?,Bruno Vandeville,Y,,,Who is the head of the government of Arleux currently?
+163,Who is the head of the government of North West currently?,Bushy Maape,Y,,,Who is the head of the government of North West currently?
+164,Who is the head of the government of Alcoi / Alcoy currently?,Antonio Frances Perez,Y,,,Who is the head of the government of Alcoi / Alcoy currently?
+165,Who is the head of the government of Salzburg currently?,Harald Preuner,Y,,,Who is the head of the government of Salzburg currently?
+167,Who is the head of the government of Kremenchuk currently?,Vitalii Maletskyi,Y,,,Who is the head of the government of Kremenchuk currently?
+168,Who is the head of the government of Chisinau currently?,Ion Ceban,Y,,,Who is the head of the government of Chisinau currently?
+169,Who is the head of the government of Fantanele currently?,Nicolae Dolha,NF,,,Who is the head of the government of Fantanele currently?
+170,Who is the head of the government of Piestany currently?,Peter Jancovic,Y,,,Who is the head of the government of Piestany currently?
+171,Who is the head of the government of Mainz currently?,Nino Haase,Y,,,Who is the head of the government of Mainz currently?
+173,Who is the head of the government of Geneva currently?,Alfonso Gomez Cruz,Y,,,Who is the head of the government of Geneva currently?
+174,Who is the head of the government of O Rosal currently?,Anxela Fernandez Callis,Y,,,Who is the head of the government of O Rosal currently?
+178,Who is the head of the government of Tilloy-lez-Marchiennes currently?,Marie Cau,Y,,,Who is the head of the government of Tilloy-lez-Marchiennes currently?
+179,Who is the head of the government of Molenbeek-Saint-Jean currently?,Catherine Moureaux,Y,,,Who is the head of the government of Molenbeek-Saint-Jean currently?
+180,Who is the head of the government of Tydal currently?,Jens Arne Kvello,Y,,,Who is the head of the government of Tydal currently?
+181,Who is the head of the government of Boston currently?,Michelle Wu,Y,,,Who is the head of the government of Boston currently?
+182,Who is the head of the government of Copenhagen Municipality currently?,Sophie Haestorp Andersen,Y,,,Who is the head of the government of Copenhagen Municipality currently?
+183,Who is the head of the government of Lubeck currently?,Jan Lindenau,Y,,,Who is the head of the government of Lubeck currently?
+184,Who is the head of the government of Marseille currently?,Benoit Payan,Y,,,Who is the head of the government of Marseille currently?
+185,Who is the head of the government of Sonderborg Municipality currently?,Erik Lauritzen,Y,,,Who is the head of the government of Sonderborg Municipality currently?
+186,Who is the head of the government of Spain currently?,Pedro Sanchez,Y,,,Who is the head of the government of Spain currently?
+187,Who is the head of the government of Fouquieres-les-Lens currently?,Donata Hochart,Y,,,Who is the head of the government of Fouquieres-les-Lens currently?
+188,Who is the head of the government of Verona currently?,Damiano Tommasi,Y,,,Who is the head of the government of Verona currently?
+189,Who is the head of the government of Russia currently?,Mikhail Mishustin,Y,,,Who is the head of the government of Russia currently?
+190,Who is the head of the government of Romania currently?,Marcel Ciolacu,Y,,,Who is the head of the government of Romania currently?
+191,Who is the head of the government of Esch-sur-Alzette currently?,Christian Weis,Y,,,Who is the head of the government of Esch-sur-Alzette currently?
+192,Who is the head of the government of Petris currently?,Ionel Gheorghe Berari,Y,,,Who is the head of the government of Petris currently?
+193,Who is the head of the government of Vienna currently?,Michael Ludwig,Y,,,Who is the head of the government of Vienna currently?
+194,Who is the head of the government of Poland currently?,Donald Tusk,Y,,,Who is the head of the government of Poland currently?
+195,Who is the head of the government of Prats de Llucanes currently?,Jordi Bruch i Franch,Y,,,Who is the head of the government of Prats de Llucanes currently?
+196,Who is the head of the government of Budapest District XI currently?,Imre Laszlo,NF,,,Who is the head of the government of Budapest District XI currently?
+197,Who is the head of the government of Hasnon currently?,Andre Desmedt,Y,,,Who is the head of the government of Hasnon currently?
+199,Who is the head of the government of Plzen currently?,Roman Zarzycky,Y,,,Who is the head of the government of Plzen currently?
+200,Who is the head of the government of Kerteminde Municipality currently?,Kasper Ejsing Olesen,Y,,,Who is the head of the government of Kerteminde Municipality currently?
+202,Who is the head of the government of Chicago currently?,Brandon Johnson,Y,,,Who is the head of the government of Chicago currently?
+204,Who is the head of the government of Dochia currently?,Iulian-Cornel Iacob,Y,,,Who is the head of the government of Dochia currently?
+205,Who is the head of the government of Georgia currently?,Irakli Kobakhidze,Y,,,Who is the head of the government of Georgia currently?
+207,Who is the head of the government of Darabani currently?,Mihai-Alin Girbaci,Y,,,Who is the head of the government of Darabani currently?
+208,Who is the head of the government of Muhldorf am Inn currently?,Michael Hetzl,Y,,,Who is the head of the government of Muhldorf am Inn currently?
+210,Who is the head of the government of Canada currently?,Justin Trudeau,Y,,,Who is the head of the government of Canada currently?
+211,Who is the head of the government of Region Zealand currently?,Heino Knudsen,Y,,,Who is the head of the government of Region Zealand currently?
+212,Who is the head of the government of Free Hanseatic City of Bremen currently?,Andreas Bovenschulte,Y,,,Who is the head of the government of Free Hanseatic City of Bremen currently?
+213,Who is the head of the government of Sant Fost de Campsentelles currently?,Montserrat Sanmarti Pratginestos,Y,,,Who is the head of the government of Sant Fost de Campsentelles currently?
+215,Who is the head of the government of Dortmund currently?,Thomas Westphal,Y,,,Who is the head of the government of Dortmund currently?
+216,Who is the head of the government of Arnhem currently?,Ahmed Marcouch,Y,,,Who is the head of the government of Arnhem currently?
+217,Who is the head of the government of Addis Ababa currently?,Adanech Abebe,Y,,,Who is the head of the government of Addis Ababa currently?
+219,Who is the head of the government of Greenland currently?,Mute Bourup Egede,Y,,,Who is the head of the government of Greenland currently?
+220,Who is the head of the government of Quezon City currently?,Joy Belmonte,Y,,,Who is the head of the government of Quezon City currently?
+221,Who is the head of the government of Bremerhaven currently?,Melf Grantz,Y,,,Who is the head of the government of Bremerhaven currently?
+222,Who is the head of the government of Germany currently?,Olaf Scholz,Y,President is Frank-Walter Steinmeier and the chancellor is Olaf Scholz,,Who is the head of the government of Germany currently?
+223,Who is the head of the government of Nuremberg currently?,Marcus Konig,Y,,,Who is the head of the government of Nuremberg currently?
+224,Who is the head of the government of Osaka Prefecture currently?,Hirofumi Yoshimura,Y,,,Who is the head of the government of Osaka Prefecture currently?
+225,Who is the head of the government of Vintu de Jos currently?,Petru-Ioan Barbu,Y,,,Who is the head of the government of Vintu de Jos currently?
+226,Who is the head of the government of Miskolc currently?,Pal Veres,Y,,,Who is the head of the government of Miskolc currently?
+227,Who is the head of the government of Rasnov currently?,Liviu-Calin Butnariu,Y,,,Who is the head of the government of Rasnov currently?
+228,Who is the head of the government of Lannemezan currently?,Bernard Plano,Y,,,Who is the head of the government of Lannemezan currently?
+229,Who is the head of the government of Belgium currently?,Alexander De Croo,Y,,,Who is the head of the government of Belgium currently?
+230,Who is the head of the government of Isabela currently?,Rodolfo T. Albano III,Y,,,Who is the head of the government of Isabela currently?
+231,Who is the head of the government of Besancon currently?,Anne Vignot,Y,,,Who is the head of the government of Besancon currently?
+232,Who is the head of the government of Zorlentu Mare currently?,Ion-Marius Isfan,Y,,,Who is the head of the government of Zorlentu Mare currently?
+233,Who is the head of the government of Kyoto Prefecture currently?,Takatoshi Nishiwaki,Y,,,Who is the head of the government of Kyoto Prefecture currently?
+234,Who is the head of the government of Balassagyarmat currently?,Gabor Csach,Y,,,Who is the head of the government of Balassagyarmat currently?
+235,Who is the head of the government of Hong Kong currently?,John Lee,Y,,,Who is the head of the government of Hong Kong currently?
+236,Who is the head of the government of Nantou County currently?,Lin Ming-chen,Y,,,Who is the head of the government of Nantou County currently?
+237,Who is the head of the government of Brno currently?,Marketa Vankova,Y,,,Who is the head of the government of Brno currently?
+238,Who is the head of the government of Aulnay-sous-Bois currently?,Bruno Beschizza,Y,,,Who is the head of the government of Aulnay-sous-Bois currently?
+239,Who is the head of the government of Varghis currently?,Lajos Imets,Y,,,Who is the head of the government of Varghis currently?
+240,Who is the head of the government of Keelung currently?,Hsieh Kuo-liang,Y,,,Who is the head of the government of Keelung currently?
+241,Who is the head of the government of Skanderborg Municipality currently?,Frands Fischer,Y,,,Who is the head of the government of Skanderborg Municipality currently?
+242,Who is the head of the government of Brandenburg an der Havel currently?,Steffen Scheller,Y,,,Who is the head of the government of Brandenburg an der Havel currently?
+243,Who is the head of the government of Jonkoping County currently?,Helena Jonsson,Y,,,Who is the head of the government of Jonkoping County currently?
+244,Who is the head of the government of Rebreuve-Ranchicourt currently?,Danielle Mannessiez,Y,,,Who is the head of the government of Rebreuve-Ranchicourt currently?
+245,Who is the head of the government of Nomain currently?,Pascal Delplanque,Y,,,Who is the head of the government of Nomain currently?
+246,Who is the head of the government of Ziduri currently?,Viorel Buzea,Y,,,Who is the head of the government of Ziduri currently?
+247,Who is the head of the government of Nizhny Novgorod currently?,Yury Shalabayev,Y,,,Who is the head of the government of Nizhny Novgorod currently?
+248,Who is the head of the government of KwaZulu-Natal currently?,Nomusa Dube-Mncube,Y,,,Who is the head of the government of KwaZulu-Natal currently?
+249,Who is the head of the government of Odense Municipality currently?,Peter Rahbaek Juel,Y,,,Who is the head of the government of Odense Municipality currently?
+250,Who is the head of the government of Uruguay currently?,Luis Lacalle Pou,Y,,,Who is the head of the government of Uruguay currently?
+251,Who is the head of the government of Hamburg currently?,Peter Tschentscher,Y,,,Who is the head of the government of Hamburg currently?
+253,Who is the head of the government of London currently?,Sadiq Khan,Y,,,Who is the head of the government of London currently?
+254,Who is the head of the government of Pakistan currently?,Shehbaz Sharif,Y,,,Who is the head of the government of Pakistan currently?
+255,Who is the head of the government of Ghidfalau currently?,Erno Jancso,Y,,,Who is the head of the government of Ghidfalau currently?
+256,Who is the head of the government of Sanpetru de Campie currently?,Spiru-Serban Craciun,NF,,,Who is the head of the government of Sanpetru de Campie currently?
+257,Which political party does James Marape belong to currently?,Pangu Party,Y,,,Which political party does James Marape belong to currently?
+259,Which political party does Peadar Toibin belong to currently?,Aontu,Y,,,Which political party does Peadar Tóibín belong to currently?
+260,Which political party does Antonio Denarium belong to currently?,Progressive Party,Y,,,Which political party does Antonio Denarium belong to currently?
+261,Which political party does Joao Vicente Goulart belong to currently?,Communist Party of Brazil,Y,,,Which political party does João Vicente Goulart belong to currently?
+262,Which political party does Maya Manolova belong to currently?,Stand Up.BG.,Y,,,Which political party does Maya Manolova belong to currently?
+263,Which political party does Calin Popescu-Tariceanu belong to currently?,Alliance of Liberals and Democrats Party,Y,,,Which political party does Călin Popescu-Tăriceanu belong to currently?
+265,Which political party does Fu Kun-chi belong to currently?,Kuomintang,Y,,,Which political party does Fu Kun-chi belong to currently?
+266,Which political party does Martin Bursik belong to currently?,Liberal-Environmental Party,Y,,,Which political party does Martin Bursík belong to currently?
+267,Which political party does Mattias Tesfaye belong to currently?,Social Democrats,Y,,,Which political party does Mattias Tesfaye belong to currently?
+268,Which political party does Said Ahamada belong to currently?,"Territories of Progress, Renaissance",Y,,,Which political party does Saïd Ahamada belong to currently?
+269,Which political party does Ingebjorg Godskesen belong to currently?,Pensioners' Party,Y,,,Which political party does Ingebjørg Godskesen belong to currently?
+270,Which political party does Manu Sareen belong to currently?,Social Democrats,Y,Social Liberal Party,,Which political party does Manu Sareen belong to currently?
+271,Which political party does Varujan Vosganian belong to currently?,Alliance of Liberals and Democrats Party,Y,,,Which political party does Varujan Vosganian belong to currently?
+272,Which political party does Mircea Chelaru belong to currently?,Romanian Nationhood Party,Y,,,Which political party does Mircea Chelaru belong to currently?
+273,Which political party does Elena Kountoura belong to currently?,SYRIZA,Y,,,Which political party does Elena Kountoura belong to currently?
+274,Which political party does Jair Bolsonaro belong to currently?,Liberal Party,Y,,,Which political party does Jair Bolsonaro belong to currently?
+275,Which political party does Pavlos Polakis belong to currently?,SYRIZA,Y,,,Which political party does Pavlos Polakis belong to currently?
+276,Which political party does Ivan Stefanec belong to currently?,Christian Democratic Movement,Y,,,Which political party does Ivan Štefanec belong to currently?
+277,Which political party does Avelino Mendez Rangel belong to currently?,National Regeneration Movement,Y,,,Which political party does Avelino Méndez Rangel belong to currently?
+279,Which political party does Giuseppe Civati belong to currently?,Possible,Y,,,Which political party does Giuseppe Civati belong to currently?
+280,Which political party does Ferenc Gyurcsany belong to currently?,Democratic Coalition,Y,,,Which political party does Ferenc Gyurcsány belong to currently?
+281,Which political party does Daniela Sbrollini belong to currently?,Italy Alive,Y,,,Which political party does Daniela Sbrollini belong to currently?
+282,Which political party does Elly Schlein belong to currently?,"Green Italy, Democratic Party",Y,,,Which political party does Elly Schlein belong to currently?
+283,Which political party does Frantisek Laudat belong to currently?,Club of Committed Non-Party Members,Y,,,Which political party does František Laudát belong to currently?
+285,Which political party does Maite Pagazaurtundua belong to currently?,independent politician,Y,Independant politician at Citizens (Spanish political party),,Which political party does Maite Pagazaurtundúa belong to currently?
+286,Which political party does Salvo Pogliese belong to currently?,Brothers of Italy,Y,,,Which political party does Salvo Pogliese belong to currently?
+287,Which political party does Shigefumi Matsuzawa belong to currently?,Nippon Ishin no Kai,Y,,,Which political party does Shigefumi Matsuzawa belong to currently?
+288,Which political party does Michael Biton belong to currently?,Israel Resilience Party,Y,,,Which political party does Michael Biton belong to currently?
+289,Which political party does Bongbong Marcos belong to currently?,Partido Federal ng Pilipinas,Y,,,Which political party does Bongbong Marcos belong to currently?
+291,Which political party does Fabrizio Cicchitto belong to currently?,"Popular Alternative, New Centre-Right",Y,,,Which political party does Fabrizio Cicchitto belong to currently?
+293,Which political party does Mauro Carlesse belong to currently?,Democrats,Y,Brazil Union,,Which political party does Mauro Carlesse belong to currently?
+294,Which political party does Vladimir Milov belong to currently?,Russia of the Future,Y,,,Which political party does Vladimir Milov belong to currently?
+295,Which political party does Mark Reckless belong to currently?,Abolish the Welsh Assembly Party,Y,,,Which political party does Mark Reckless belong to currently?
+296,Which political party does Hiroshi Ogushi belong to currently?,Constitutional Democratic Party of Japan,Y,,,Which political party does Hiroshi Ogushi belong to currently?
+297,Which political party does Anne Marie Waters belong to currently?,For Britain,Y,UK Independence Party,,Which political party does Anne Marie Waters belong to currently?
+299,Which political party does Daniela Santanche belong to currently?,Brothers of Italy,Y,,,Which political party does Daniela Santanché belong to currently?
+300,Which political party does Vladeta Jankovic belong to currently?,independent politician,Y,,,Which political party does Vladeta Janković belong to currently?
+301,Which political party does Francisco Sosa Wagner belong to currently?,Ciudadanos,Y,,,Which political party does Francisco Sosa Wagner belong to currently?
+302,Which political party does George Galloway belong to currently?,Workers Party of Britain,Y,,,Which political party does George Galloway belong to currently?
+303,Which political party does Toru Hashimoto belong to currently?,"Nippon Ishin no Kai, Osaka Restoration Association",Y,,,Which political party does Tōru Hashimoto belong to currently?
+305,Which political party does Angelo Vaccarezza belong to currently?,Cambiamo!,Y,,,Which political party does Angelo Vaccarezza belong to currently?
+306,Which political party does Milos Zeman belong to currently?,Party of Civic Rights,Y,,,Which political party does Miloš Zeman belong to currently?
+307,Which political party does Hazel Poa belong to currently?,Progress Singapore Party,Y,,,Which political party does Hazel Poa belong to currently?
+308,Which political party does Massimo Zedda belong to currently?,Progressive Area,Y,Progressive Party (Sardinia),,Which political party does Massimo Zedda belong to currently?
+309,Which political party does Jean-Luc Melenchon belong to currently?,"La France insoumise, Left Party (France)",Y,,,Which political party does Jean-Luc Mélenchon belong to currently?
+310,Which political party does Kusuo Oshima belong to currently?,Reiwa Shinsengumi,Y,,,Which political party does Kusuo Oshima belong to currently?
+311,Which political party does Lourdes Ciuro i Buldo belong to currently?,Junts per Catalunya,Y,,,Which political party does Lourdes Ciuró i Buldó belong to currently?
+313,Which political party does Sunil Singh belong to currently?,Bharatiya Janata Party,Y,,,Which political party does Sunil Singh belong to currently?
+314,Which political party does Alexander Shokhin belong to currently?,United Russia,Y,,,Which political party does Alexander Shokhin belong to currently?
+315,Which political party does Yuriko Koike belong to currently?,"Party of Hope, Tomin First no Kai",Y,,,Which political party does Yuriko Koike belong to currently?
+316,Which political party does Diether Dehm-Desoi belong to currently?,The Left,Y,,,Which political party does Diether Dehm-Desoi belong to currently?
+317,Which political party does Marcelo Ebrard belong to currently?,National Regeneration Movement,Y,,,Which political party does Marcelo Ebrard belong to currently?
+318,Which political party does Anke Domscheit-Berg belong to currently?,The Left,Y,,,Which political party does Anke Domscheit-Berg belong to currently?
+319,Which political party does Nadia Valavani belong to currently?,Popular Unity,Y,,,Which political party does Nadia Valavani belong to currently?
+321,Which political party does Gabriela Rivadeneira belong to currently?,Citizen Revolution Movement,Y,,,Which political party does Gabriela Rivadeneira belong to currently?
+322,Which political party does Vera Jourova belong to currently?,ANO 2011,Y,,,Which political party does Věra Jourová belong to currently?
+325,Which political party does Basuki Tjahaja Purnama belong to currently?,Indonesian Democratic Party - Struggle,Y,,,Which political party does Basuki Tjahaja Purnama belong to currently?
+326,Which political party does Steven Fletcher belong to currently?,"People's Party of Canada, Manitoba First",Y,,,Which political party does Steven Fletcher belong to currently?
+327,Which political party does Alvaro Uribe Velez belong to currently?,Centro Democratico,Y,,,Which political party does Álvaro Uribe Vélez belong to currently?
+328,Which political party does Helir-Valdor Seeder belong to currently?,Isamaa,Y,,,Which political party does Helir-Valdor Seeder belong to currently?
+329,Which political party does Oleksandr Vilkul belong to currently?,Party of Peace and Development,Y,,,Which political party does Oleksandr Vilkul belong to currently?
+330,Which political party does Koichiro Genba belong to currently?,Constitutional Democratic Party of Japan,Y,,,Which political party does Kōichirō Genba belong to currently?
+331,Which political party does Ene Ergma belong to currently?,Estonian Reform Party,Y,,,Which political party does Ene Ergma belong to currently?
+332,Which political party does Vootele Hansen belong to currently?,Isamaa,Y,,,Which political party does Vootele Hansen belong to currently?
+333,Which political party does Masir Kujat belong to currently?,independent politician,Y,,,Which political party does Masir Kujat belong to currently?
+335,Which political party does Jordi Xucla belong to currently?,Partit Nacionalista de Catalunya,Y,,,Which political party does Jordi Xuclà belong to currently?
+336,Which political party does Ida Auken belong to currently?,Social Democrats,Y,,,Which political party does Ida Auken belong to currently?
+337,Which political party does Mahathir Mohamad belong to currently?,Parti Bumiputera Perkasa Malaysia,Y,Also Perikatan Nasional,,Which political party does Mahathir Mohamad belong to currently?
+338,Which political party does Pier Luigi Bersani belong to currently?,Democratic Party,Y,,,Which political party does Pier Luigi Bersani belong to currently?
+339,Which political party does Amiruddin Hamzah belong to currently?,Homeland Fighter Party,Y,,,Which political party does Amiruddin Hamzah belong to currently?
+340,Which political party does Shane Knuth belong to currently?,Katter's Australian Party,Y,,,Which political party does Shane Knuth belong to currently?
+341,Which political party does Sergio Chiamparino belong to currently?,Democratic Party,Y,,,Which political party does Sergio Chiamparino belong to currently?
+342,Which political party does Yasuko Komiyama belong to currently?,Constitutional Democratic Party of Japan,Y,,,Which political party does Yasuko Komiyama belong to currently?
+343,Which political party does Obren Joksimovic belong to currently?,Serbian Radical Party,Y,,,Which political party does Obren Joksimović belong to currently?
+344,Which political party does Sylvain Maillard belong to currently?,Renaissance,Y,,,Which political party does Sylvain Maillard belong to currently?
+345,Which political party does Ulrike Trebesius belong to currently?,independent politician,Y,,,Which political party does Ulrike Trebesius belong to currently?
+347,Which employer does Sebastian Deffner work for currently?,"University of Maryland, Baltimore County",Y,,,Which employer does Sebastian Deffner work for currently?
+348,Which employer does Simon Overland work for currently?,Burnie City Council,NF,,,Which employer does Simon Overland work for currently?
+349,Which employer does Stephanie Renouvin work for currently?,"W9, RTL2, C8, LCI",NF,,,Which employer does Stéphanie Renouvin work for currently?
+351,Which employer does Iolanda Batalle work for currently?,Llibreria Ona,Y,,,Which employer does Iolanda Batallé work for currently?
+353,Which employer does Ken Levine work for currently?,Ghost Story Games,Y,,,Which employer does Ken Levine work for currently?
+354,Which employer does Joan Frances Blanc work for currently?,Eviden,Y,,,Which employer does Joan Francés Blanc work for currently?
+356,Which employer does Satyan Devadoss work for currently?,"University of California, San Diego",Y,,,Which employer does Satyan Devadoss work for currently?
+357,Which employer does Rane Willerslev work for currently?,National Museum of Denmark,Y,,,Which employer does Rane Willerslev work for currently?
+358,Which employer does Wendy I Baltzer work for currently?,University of Sydney,Y,,,Which employer does Wendy I Baltzer work for currently?
+360,Which employer does David O. Sacks work for currently?,Craft Ventures,Y,,,Which employer does David O. Sacks work for currently?
+361,Which employer does Michael Hout work for currently?,New York University,Y,,,Which employer does Michael Hout work for currently?
+362,Which employer does Stephan Matthai work for currently?,University of Melbourne,Y,,,Which employer does Stephan Matthai work for currently?
+364,Which employer does Alejandro Jenkins work for currently?,University of Costa Rica,Y,,,Which employer does Alejandro Jenkins work for currently?
+367,Which employer does James E. Ryan work for currently?,University of Virginia,Y,,,Which employer does James E. Ryan work for currently?
+368,Which employer does Mark Aguiar work for currently?,Princeton University,Y,,,Which employer does Mark Aguiar work for currently?
+369,Which employer does Wendy L. Queen work for currently?,Swiss Federal Institute of Technology in Lausanne,Y,,,Which employer does Wendy L. Queen work for currently?
+370,Which employer does Elias G. Carayannis work for currently?,The George Washington University School of Business,Y,,,Which employer does Elias G. Carayannis work for currently?
+371,Which employer does Anne-Sophie Lapix work for currently?,France 2,Y,,,Which employer does Anne-Sophie Lapix work for currently?
+372,Which employer does Sylvia Burwell work for currently?,American University,Y,,,Which employer does Sylvia Burwell work for currently?
+374,Which employer does Diana Coben work for currently?,University of East Anglia,Y,,,Which employer does Diana Coben work for currently?
+375,Which employer does Michael R. Dietrich work for currently?,University of Pittsburgh,Y,,,Which employer does Michael R. Dietrich work for currently?
+376,Which employer does Richard J. Evans work for currently?,Gresham College,Y,,,Which employer does Richard J. Evans work for currently?
+377,Which employer does Simon Gillham work for currently?,Vivendi,Y,,,Which employer does Simon Gillham work for currently?
+379,Which employer does Marcelle Soares-Santos work for currently?,University of Michigan,Y,,,Which employer does Marcelle Soares-Santos work for currently?
+381,Which employer does Theodore Ts'o work for currently?,Google,Y,,,Which employer does Theodore Ts'o work for currently?
+383,Which employer does Chris Van Den Wyngaert work for currently?,International Criminal Court,Y,,,Which employer does Chris Van Den Wyngaert work for currently?
+385,Which employer does Christopher Barner-Kowollik work for currently?,Queensland University of Technology,Y,,,Which employer does Christopher Barner-Kowollik work for currently?
+386,Which employer does Gregory Timp work for currently?,University of Notre Dame,Y,,,Which employer does Gregory Timp work for currently?
+389,Which employer does Marie desJardins work for currently?,Simmons University,Y,,,Which employer does Marie desJardins work for currently?
+391,Which employer does John Owusu Gyapong work for currently?,University of Health and Allied Sciences,Y,,,Which employer does John Owusu Gyapong work for currently?
+392,Which employer does Shannon Sullivan work for currently?,University of North Carolina at Charlotte,Y,,,Which employer does Shannon Sullivan work for currently?
+393,Which employer does David Konstan work for currently?,New York University,Y,"Also, Konstan died May 2, 2024",,Which employer does David Konstan work for currently?
+395,Which employer does Eva Kreienkamp work for currently?,Berliner Verkehrsbetriebe,Y,,,Which employer does Eva Kreienkamp work for currently?
+396,Which employer does Erwin Chemerinsky work for currently?,UC Berkeley School of Law,Y,,,Which employer does Erwin Chemerinsky work for currently?
+397,Which employer does Younan Xia work for currently?,Georgia Tech,Y,,,Which employer does Younan Xia work for currently?
+398,Which employer does Valerie Barr work for currently?,"Bard College, Mount Holyoke College, Union College",Y,,,Which employer does Valerie Barr work for currently?
+399,Which employer does Nuria Oliver work for currently?,ELLIS Alicante,Y,,,Which employer does Nuria Oliver work for currently?
+400,Which employer does Shalanda Young work for currently?,Office of Management and Budget,Y,,,Which employer does Shalanda Young work for currently?
+401,Which employer does Kimberly Drew work for currently?,Pace Gallery,Y,Source: LinkedIn,,Which employer does Kimberly Drew work for currently?
+403,Which employer does Aaron Ames work for currently?,California Institute of Technology,Y,,,Which employer does Aaron Ames work for currently?
+404,Which employer does Gilda A Barabino work for currently?,"Franklin W. Olin College of Engineering, City College of New York",Y,,,Which employer does Gilda A Barabino work for currently?
+405,Which employer does Juliet Ehimuan work for currently?,Google,Y,,,Which employer does Juliet Ehimuan work for currently?
+406,Which employer does Eric Katz work for currently?,Ohio State University,Y,,,Which employer does Eric Katz work for currently?
+408,Which employer does Steve Alford work for currently?,"University of Nevada, Reno",Y,,,Which employer does Steve Alford work for currently?
+409,Which employer does Fumio Hayashi work for currently?,National Graduate Institute for Policy Studies,Y,,,Which employer does Fumio Hayashi work for currently?
+410,Which employer does Frederic Mion work for currently?,Gide Loyrette Nouel,Y,Gide Loyrette Nouel website,,Which employer does Frédéric Mion work for currently?
+411,Which employer does Henrietta Harrison work for currently?,University of Oxford,Y,,,Which employer does Henrietta Harrison work for currently?
+412,Which employer does Timothy Geithner work for currently?,Warburg Pincus,Y,,,Which employer does Timothy Geithner work for currently?
+413,Which employer does Saul Dubow work for currently?,University of Cambridge,Y,,,Which employer does Saul Dubow work for currently?
+414,Which employer does John Alroy work for currently?,Macquarie University,Y,,,Which employer does John Alroy work for currently?
+415,Which employer does Vicki Grassian work for currently?,"University of California, San Diego",Y,,,Which employer does Vicki Grassian work for currently?
+416,Which employer does Max Hollein work for currently?,"Metropolitan Museum of Art, Solomon R. Guggenheim Museum",Y,,,Which employer does Max Hollein work for currently?
+417,Which employer does Peter T. Gallagher work for currently?,Dublin Institute for Advanced Studies,Y,,,Which employer does Peter T. Gallagher work for currently?
+418,Which employer does Nicholas M Fisk work for currently?,University of New South Wales,Y,,,Which employer does Nicholas M Fisk work for currently?
+420,Which employer does Nancy Tatom Ammerman work for currently?,Boston University,Y,,,Which employer does Nancy Tatom Ammerman work for currently?
+422,Which employer does Sagiri Kitao work for currently?,University of Tokyo,Y,,,Which employer does Sagiri Kitao work for currently?
+423,Which employer does Harold Hurtt work for currently?,U.S. Immigration and Customs Enforcement,Y,,,Which employer does Harold Hurtt work for currently?
+424,Which employer does Marta Tufet work for currently?,UK Collaborative on Development Research,Y,,,Which employer does Marta Tufet work for currently?
+425,Which employer does Angela Casini work for currently?,Cardiff University,Y,,,Which employer does Angela Casini work for currently?
+426,Which employer does Julia Ebner work for currently?,Institute for Strategic Dialogue,Y,,,Which employer does Julia Ebner work for currently?
+427,Which employer does Samy Bengio work for currently?,Apple,Y,,,Which employer does Samy Bengio work for currently?
+428,Which employer does Marcus Hutter work for currently?,"Google DeepMind, Australian National University",Y,,,Which employer does Marcus Hutter work for currently?
+429,Which employer does Ingrid Schaffner work for currently?,Hauser & Wirth,Y,,,Which employer does Ingrid Schaffner work for currently?
+430,Which employer does Barbara Fantechi work for currently?,International School for Advanced Studies,Y,,,Which employer does Barbara Fantechi work for currently?
+431,Which employer does Maria R. Servedio work for currently?,University of North Carolina at Chapel Hill,Y,,,Which employer does Maria R. Servedio work for currently?
+432,Which employer does James A. Robinson work for currently?,Harris School of Public Policy Studies,Y,University of Chicago,,Which employer does James A. Robinson work for currently?
+433,Which employer does Jennifer Westacott work for currently?,"Western Sydney University, Business Council of Australia",Y,,,Which employer does Jennifer Westacott work for currently?
+435,Which employer does Michael Riessler work for currently?,University of Eastern Finland,Y,,,Which employer does Michael Rießler work for currently?
+436,Which employer does Peter Donnelly work for currently?,"Genomics plc, Wellcome Centre for Human Genetics, Wellcome Centre for Human Genetics, University of Oxford",Y,,,Which employer does Peter Donnelly work for currently?
+437,Which employer does Peter Mathieson work for currently?,University of Edinburgh,Y,,,Which employer does Peter Mathieson work for currently?
+439,Which employer does Anne-Marie Slaughter work for currently?,New America,Y,,,Which employer does Anne-Marie Slaughter work for currently?
+440,Which employer does Alexander Laszlo work for currently?,Bertalanffy Center for the Study of Systems Science,Y,"Also, Laszlo Institute of New Paradigm Research ",,Which employer does Alexander Laszlo work for currently?
+441,Which employer does Sylvia Richardson work for currently?,University of Cambridge,Y,,,Which employer does Sylvia Richardson work for currently?
+442,Which employer does Megyn Kelly work for currently?,Sirius XM,Y,,,Which employer does Megyn Kelly work for currently?
+444,Which employer does Pascale Allotey work for currently?,United Nations University-International Institute for Global Health,Y,,,Which employer does Pascale Allotey work for currently?
+445,Which employer does Cristina Gallash work for currently?,Government of Spain,Y,Special Commissioner for the Alliance for the New Economy of Language of Spain,,Which employer does Cristina Gallash work for currently?
+446,Which employer does Robyn Denholm work for currently?,"Telstra, Tesla, Inc.",Y,,,Which employer does Robyn Denholm work for currently?
+448,Which employer does Daniel J. Myers work for currently?,Misericordia University,Y,,,Which employer does Daniel J. Myers work for currently?
+449,Which employer does Cecilia Lo work for currently?,University of Pittsburgh,Y,,,Which employer does Cecilia Lo work for currently?
+450,Which employer does Shannon Walsh work for currently?,University of British Columbia,Y,,,Which employer does Shannon Walsh work for currently?
+451,Which employer does Christine Lane work for currently?,University of Cambridge,Y,,,Which employer does Christine Lane work for currently?
+452,Which employer does Noemi de Miguel work for currently?,DAZN F1,Y,,,Which employer does Noemí de Miguel work for currently?
+453,Which employer does Cui Yongyuan work for currently?,Communication University of China,Y,,,Which employer does Cui Yongyuan work for currently?
+454,Which employer does Sven Pagel work for currently?,Mainz University of Applied Sciences,Y,,,Which employer does Sven Pagel work for currently?
+455,Which employer does Philippa Levine work for currently?,University of Texas at Austin,Y,,,Which employer does Philippa Levine work for currently?
+456,Which employer does Amy Barr work for currently?,Planetary Science Institute,Y,,,Which employer does Amy Barr work for currently?
+457,Which employer does Gaetan de Rassenfosse work for currently?,Swiss Federal Institute of Technology in Lausanne,Y,,,Which employer does Gaétan de Rassenfosse work for currently?
+458,Which employer does Mustafa Akyol work for currently?,Cato Institute,Y,,,Which employer does Mustafa Akyol work for currently?
+459,Which employer does Enrique Alfaro Ramirez work for currently?,Governor of Jalisco,Y,,,Which employer does Enrique Alfaro Ramírez work for currently?
+460,Which employer does Sarah Feinberg work for currently?,New York City Transit Authority,Y,,,Which employer does Sarah Feinberg work for currently?
+462,Which employer does Elizabeth T. Borer work for currently?,University of Minnesota,Y,,,Which employer does Elizabeth T. Borer work for currently?
+463,Which employer does Marilo Montero work for currently?,"La Fabrica de la Tele, Grupo Joly",Y,,,Which employer does Mariló Montero work for currently?
+464,Which employer does Wieslaw Tarka work for currently?,Ministry of Foreign Affairs of Poland,Y,,,Which employer does Wiesław Tarka work for currently?
+467,Which employer does Zeina Yazigi work for currently?,Asharq News,Y,,,Which employer does Zeina Yazigi work for currently?
+468,Which employer does Mohammad H Ansari work for currently?,"Research Centre Julich, Delft University of Technology",Y,,,Which employer does Mohammad H Ansari work for currently?
+470,Which employer does Francois Pachet work for currently?,Spotify,Y,,,Which employer does François Pachet work for currently?
+471,Which employer does Michaela Pereira work for currently?,KTTV,Y,,,Which employer does Michaela Pereira work for currently?
+472,Which employer does Moxie Marlinspike work for currently?,Signal Messenger,Y,,,Which employer does Moxie Marlinspike work for currently?
+473,Which employer does Ellen Muehlberger work for currently?,University of Michigan,Y,,,Which employer does Ellen Muehlberger work for currently?
+474,Which employer does Julian A. Dowdeswell work for currently?,"Scott Polar Research Institute, University of Cambridge",Y,,,Which employer does Julian A. Dowdeswell work for currently?
+475,Which employer does Clive Ballard work for currently?,University of Exeter,Y,,,Which employer does Clive Ballard work for currently?
+476,Which employer does Orm Finnendahl work for currently?,Frankfurt University of Music and Performing Arts,Y,,,Which employer does Orm Finnendahl work for currently?
+477,Which employer does Deborah Sugg Ryan work for currently?,University of Portsmouth,Y,,,Which employer does Deborah Sugg Ryan work for currently?
+478,Which employer does Roman Badanin work for currently?,Proekt,Y,,,Which employer does Roman Badanin work for currently?
+479,Which employer does Bernhard Scholkopf work for currently?,Max Planck Institute for Intelligent Systems,Y,"Also, a professor at ETH Zürich",,Which employer does Bernhard Schölkopf work for currently?
+480,Which employer does Johannes Teyssen work for currently?,E.ON SE,Y,,,Which employer does Johannes Teyssen work for currently?
+481,Which employer does Teija Tiilikainen work for currently?,European Centre of Excellence for Countering Hybrid Threats,Y,,,Which employer does Teija Tiilikainen work for currently?
+482,Which employer does Annechien Steenhuizen work for currently?,Nederlandse Omroep Stichting,Y,,,Which employer does Annechien Steenhuizen work for currently?
+483,Which employer does Dirk Helbing work for currently?,ETH Zurich,Y,,,Which employer does Dirk Helbing work for currently?
+484,Which employer does Sabine Hyland work for currently?,University of St Andrews,Y,,,Which employer does Sabine Hyland work for currently?
+485,Which employer does Simone Young work for currently?,Sydney Symphony Orchestra,Y,,,Which employer does Simone Young work for currently?
+487,Which employer does David K. Levine work for currently?,European University Institute,Y,Also at University of London,,Which employer does David K. Levine work for currently?
+488,Which employer does Allison Littlejohn work for currently?,University College London,Y,,,Which employer does Allison Littlejohn work for currently?
+489,Which employer does Faye McLeod work for currently?,Bodleian Libraries,Y,Employer Name: Oxford University,,Which employer does Faye McLeod work for currently?
+490,Which employer does Nada Al-Nashif work for currently?,Office of the High Commissioner for Human Rights,Y,,,Which employer does Nada Al-Nashif work for currently?
+491,Which employer does Katya Scheinberg work for currently?,Cornell University,Y,,,Which employer does Katya Scheinberg work for currently?
+492,Which employer does Ken Murph work for currently?,Tesco,Y,,,Which employer does Ken Murph work for currently?
+493,Which employer does Manuel Estiarte work for currently?,Manchester City F.C.,Y,,,Which employer does Manuel Estiarte work for currently?
+494,Which employer does Khaled Koubaa work for currently?,Facebook,Y,,,Which employer does Khaled Koubaa work for currently?
+495,Which employer does Sinead Farrington work for currently?,"University of Edinburgh, University of Warwick",Y,,,Which employer does Sinead Farrington work for currently?
+496,Which employer does Raj Kumar Yadav work for currently?,Central University of Punjab,NF,,,Which employer does Raj Kumar Yadav work for currently?
+497,Which employer does Ajit Pai work for currently?,"Searchlight Capital, American Enterprise Institute, Federal Communications Commission",Y,,,Which employer does Ajit Pai work for currently?
+498,Which employer does Lukas M. Vytlacil work for currently?,National Heritage Institute,Y,,,Which employer does Lukáš M. Vytlačil work for currently?
+499,Which employer does Jordan Randall Smith work for currently?,"Opus Concert Theatre, Frederick Regional Youth Orchestra, Symphony Number One",Y,"Also, John Hopkins university",,Which employer does Jordan Randall Smith work for currently?

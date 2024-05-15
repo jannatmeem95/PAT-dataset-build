@@ -1,0 +1,679 @@
+{
+      "Who is the head of the government of Minsk currently?": {
+            "question": "Who is the head of the government of Minsk currently?",
+            "subject": {
+                  "subject": "Q2280",
+                  "subLabel": "Minsk"
+            },
+            "text answers": [
+                  "Uladzimir Kukharau"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56245210",
+                        "Label": "Uladzimir Kukharau"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8000
+      },
+      "Who is the head of the government of Somalia currently?": {
+            "question": "Who is the head of the government of Somalia currently?",
+            "subject": {
+                  "subject": "Q1045",
+                  "subLabel": "Somalia"
+            },
+            "text answers": [
+                  "Mohamed Hussein Roble"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q99605101",
+                        "Label": "Mohamed Hussein Roble"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8001
+      },
+      "Who is the head of the government of Zaporizhzhia currently?": {
+            "question": "Who is the head of the government of Zaporizhzhia currently?",
+            "subject": {
+                  "subject": "Q157835",
+                  "subLabel": "Zaporizhzhia"
+            },
+            "text answers": [
+                  "Rehina Kharchenko"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q125581437",
+                        "Label": "Rehina Kharchenko"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8002
+      },
+      "Who is the head of the government of Taipei City Government currently?": {
+            "question": "Who is the head of the government of Taipei City Government currently?",
+            "subject": {
+                  "subject": "Q9105560",
+                  "subLabel": "Taipei City Government"
+            },
+            "text answers": [
+                  "Ko Wen-je"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q18113714",
+                        "Label": "Ko Wen-je"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8003
+      },
+      "Who is the head of the government of Enebakk currently?": {
+            "question": "Who is the head of the government of Enebakk currently?",
+            "subject": {
+                  "subject": "Q57081",
+                  "subLabel": "Enebakk"
+            },
+            "text answers": [
+                  "Hans Kristian Solberg"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q95976977",
+                        "Label": "Hans Kristian Solberg"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8004
+      },
+      "Who is the head of the government of Manitoba currently?": {
+            "question": "Who is the head of the government of Manitoba currently?",
+            "subject": {
+                  "subject": "Q1948",
+                  "subLabel": "Manitoba"
+            },
+            "text answers": [
+                  "Heather Stefanson"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q5694126",
+                        "Label": "Heather Stefanson"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8005
+      },
+      "Who is the head of the government of V\u0103c\u0103reni currently?": {
+            "question": "Who is the head of the government of V\u0103c\u0103reni currently?",
+            "subject": {
+                  "subject": "Q5091598",
+                  "subLabel": "V\u0103c\u0103reni"
+            },
+            "text answers": [
+                  "Costel Neagu"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q104502814",
+                        "Label": "Costel Neagu"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8006
+      },
+      "Who is the head of the government of Usurbil currently?": {
+            "question": "Who is the head of the government of Usurbil currently?",
+            "subject": {
+                  "subject": "Q1633909",
+                  "subLabel": "Usurbil"
+            },
+            "text answers": [
+                  "Agurtzane Solabarrieta"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q88964433",
+                        "Label": "Agurtzane Solabarrieta"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8007
+      },
+      "Who is the head of the government of Kazakhstan currently?": {
+            "question": "Who is the head of the government of Kazakhstan currently?",
+            "subject": {
+                  "subject": "Q232",
+                  "subLabel": "Kazakhstan"
+            },
+            "text answers": [
+                  "\u00c4lihan Smaiylov"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56825894",
+                        "Label": "\u00c4lihan Smaiylov"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8008
+      },
+      "Who is the head of the government of Indianapolis currently?": {
+            "question": "Who is the head of the government of Indianapolis currently?",
+            "subject": {
+                  "subject": "Q6346",
+                  "subLabel": "Indianapolis"
+            },
+            "text answers": [
+                  "Joe Hogsett"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q6210362",
+                        "Label": "Joe Hogsett"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8009
+      },
+      "Who is the head of the government of Bordeaux currently?": {
+            "question": "Who is the head of the government of Bordeaux currently?",
+            "subject": {
+                  "subject": "Q1479",
+                  "subLabel": "Bordeaux"
+            },
+            "text answers": [
+                  "Pierre Hurmic"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q55599019",
+                        "Label": "Pierre Hurmic"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8010
+      },
+      "Who is the head of the government of Madrid currently?": {
+            "question": "Who is the head of the government of Madrid currently?",
+            "subject": {
+                  "subject": "Q2807",
+                  "subLabel": "Madrid"
+            },
+            "text answers": [
+                  "Jos\u00e9 Luis Mart\u00ednez-Almeida"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q29636954",
+                        "Label": "Jos\u00e9 Luis Mart\u00ednez-Almeida"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8011
+      },
+      "Who is the head of the government of Massalfassar currently?": {
+            "question": "Who is the head of the government of Massalfassar currently?",
+            "subject": {
+                  "subject": "Q1989342",
+                  "subLabel": "Massalfassar"
+            },
+            "text answers": [
+                  "\u00c1lvaro Monta\u00f1\u00e9s Fontestad"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q97324516",
+                        "Label": "\u00c1lvaro Monta\u00f1\u00e9s Fontestad"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8012
+      },
+      "Who is the head of the government of Mali currently?": {
+            "question": "Who is the head of the government of Mali currently?",
+            "subject": {
+                  "subject": "Q912",
+                  "subLabel": "Mali"
+            },
+            "text answers": [
+                  "Abdoulaye Ma\u00efga"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q113577661",
+                        "Label": "Abdoulaye Ma\u00efga"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8013
+      },
+      "Who is the head of the government of Burkina Faso currently?": {
+            "question": "Who is the head of the government of Burkina Faso currently?",
+            "subject": {
+                  "subject": "Q965",
+                  "subLabel": "Burkina Faso"
+            },
+            "text answers": [
+                  "Apollinaire Joachim Ky\u00e9lem de Tamb\u00e8la"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q114835874",
+                        "Label": "Apollinaire Joachim Ky\u00e9lem de Tamb\u00e8la"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8014
+      },
+      "Who is the head of the government of Bulgaria currently?": {
+            "question": "Who is the head of the government of Bulgaria currently?",
+            "subject": {
+                  "subject": "Q219",
+                  "subLabel": "Bulgaria"
+            },
+            "text answers": [
+                  "Nikolay Denkov",
+                  "Kiril Petkov"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q28536878",
+                        "Label": "Nikolay Denkov"
+                  },
+                  {
+                        "ID": "Q106928258",
+                        "Label": "Kiril Petkov"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8015
+      },
+      "Who is the head of the government of Dunkirk currently?": {
+            "question": "Who is the head of the government of Dunkirk currently?",
+            "subject": {
+                  "subject": "Q45797",
+                  "subLabel": "Dunkirk"
+            },
+            "text answers": [
+                  "Patrice Vergriete"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16669152",
+                        "Label": "Patrice Vergriete"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8016
+      },
+      "Who is the head of the government of Morlaix Communaut\u00e9 currently?": {
+            "question": "Who is the head of the government of Morlaix Communaut\u00e9 currently?",
+            "subject": {
+                  "subject": "Q3324151",
+                  "subLabel": "Morlaix Communaut\u00e9"
+            },
+            "text answers": [
+                  "Jean-Paul Vermot"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q63764969",
+                        "Label": "Jean-Paul Vermot"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8017
+      },
+      "Who is the head of the government of Darmstadt Government Region currently?": {
+            "question": "Who is the head of the government of Darmstadt Government Region currently?",
+            "subject": {
+                  "subject": "Q7932",
+                  "subLabel": "Darmstadt Government Region"
+            },
+            "text answers": [
+                  "Brigitte Lindscheid"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16739221",
+                        "Label": "Brigitte Lindscheid"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8018
+      },
+      "Who is the head of the government of Wassenaar currently?": {
+            "question": "Who is the head of the government of Wassenaar currently?",
+            "subject": {
+                  "subject": "Q505601",
+                  "subLabel": "Wassenaar"
+            },
+            "text answers": [
+                  "Leendert de Lange"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19839084",
+                        "Label": "Leendert de Lange"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8019
+      },
+      "Who is the head of the government of Mer\u00e5ker currently?": {
+            "question": "Who is the head of the government of Mer\u00e5ker currently?",
+            "subject": {
+                  "subject": "Q48732",
+                  "subLabel": "Mer\u00e5ker"
+            },
+            "text answers": [
+                  "Kjersti Kjenes"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q95984687",
+                        "Label": "Kjersti Kjenes"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8020
+      },
+      "Who is the head of the government of Stord currently?": {
+            "question": "Who is the head of the government of Stord currently?",
+            "subject": {
+                  "subject": "Q485253",
+                  "subLabel": "Stord"
+            },
+            "text answers": [
+                  "Gaute Straume Epland"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q65658554",
+                        "Label": "Gaute Straume Epland"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8021
+      },
+      "Who is the head of the government of Doetinchem currently?": {
+            "question": "Who is the head of the government of Doetinchem currently?",
+            "subject": {
+                  "subject": "Q145845",
+                  "subLabel": "Doetinchem"
+            },
+            "text answers": [
+                  "Annemieke Traag"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q19578460",
+                        "Label": "Annemieke Traag"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8022
+      },
+      "Who is the head of the government of M\u00e5s\u00f8y currently?": {
+            "question": "Who is the head of the government of M\u00e5s\u00f8y currently?",
+            "subject": {
+                  "subject": "Q113697",
+                  "subLabel": "M\u00e5s\u00f8y"
+            },
+            "text answers": [
+                  "Bernth R. Sjursen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q89974729",
+                        "Label": "Bernth R. Sjursen"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8023
+      },
+      "Who is the head of the government of Taitung County currently?": {
+            "question": "Who is the head of the government of Taitung County currently?",
+            "subject": {
+                  "subject": "Q249904",
+                  "subLabel": "Taitung County"
+            },
+            "text answers": [
+                  "Rao Ching-ling"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16260582",
+                        "Label": "Rao Ching-ling"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8024
+      },
+      "Who is the head of the government of Mende currently?": {
+            "question": "Who is the head of the government of Mende currently?",
+            "subject": {
+                  "subject": "Q191772",
+                  "subLabel": "Mende"
+            },
+            "text answers": [
+                  "Alain Bertrand"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q2829565",
+                        "Label": "Alain Bertrand"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8025
+      },
+      "Who is the head of the government of Malang currently?": {
+            "question": "Who is the head of the government of Malang currently?",
+            "subject": {
+                  "subject": "Q11445",
+                  "subLabel": "Malang"
+            },
+            "text answers": [
+                  "Sutiaji"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q56391433",
+                        "Label": "Sutiaji"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8026
+      },
+      "Who is the head of the government of Incheon currently?": {
+            "question": "Who is the head of the government of Incheon currently?",
+            "subject": {
+                  "subject": "Q20934",
+                  "subLabel": "Incheon"
+            },
+            "text answers": [
+                  "Park Nam-choon"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q16081369",
+                        "Label": "Park Nam-choon"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8027
+      },
+      "Who is the head of the government of Hadsel currently?": {
+            "question": "Who is the head of the government of Hadsel currently?",
+            "subject": {
+                  "subject": "Q484043",
+                  "subLabel": "Hadsel"
+            },
+            "text answers": [
+                  "Aina Johanne Nilsen"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q100823675",
+                        "Label": "Aina Johanne Nilsen"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8028
+      },
+      "Who is the head of the government of Stevns Municipality currently?": {
+            "question": "Who is the head of the government of Stevns Municipality currently?",
+            "subject": {
+                  "subject": "Q503153",
+                  "subLabel": "Stevns Municipality"
+            },
+            "text answers": [
+                  "Henning Urban Dam"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q110359527",
+                        "Label": "Henning Urban Dam"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8029
+      },
+      "Who is the head of the government of Kinmen currently?": {
+            "question": "Who is the head of the government of Kinmen currently?",
+            "subject": {
+                  "subject": "Q249870",
+                  "subLabel": "Kinmen"
+            },
+            "text answers": [
+                  "Yang Cheng-wu"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q22774355",
+                        "Label": "Yang Cheng-wu"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8030
+      },
+      "Who is the head of the government of M\u00f3stoles currently?": {
+            "question": "Who is the head of the government of M\u00f3stoles currently?",
+            "subject": {
+                  "subject": "Q187826",
+                  "subLabel": "M\u00f3stoles"
+            },
+            "text answers": [
+                  "Noelia Posse G\u00f3mez"
+            ],
+            "answer annotations": [
+                  {
+                        "ID": "Q57309885",
+                        "Label": "Noelia Posse G\u00f3mez"
+                  }
+            ],
+            "relations": [
+                  "P6"
+            ],
+            "template": "Who is the head of the government of {subject} currently?",
+            "uniq_id": 8031
+      }
+}
